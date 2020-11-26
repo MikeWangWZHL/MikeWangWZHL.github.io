@@ -25,7 +25,7 @@ Education
   * **University of Illinois at Urbana-Champaign**
     * M.S. in Civil Engineering, 2019 - 
     * GPA: 4.0/4.0
-    * CS Courses: Data Structure | System Programing | Intro to Algs and Models of Comp | Artificial Intelligence | Machine Learning | Introduction to Data Mining | Info Extr and Knowledge Acq
+    * CS Courses: Data Structure, System Programing, Intro to Algs and Models of Comp, Artificial Intelligence, Machine Learning, Introduction to Data Mining, Info Extr and Knowledge Acq
   * **Zhejiang University**
     * B.E. in Civil Engineering 2016 - 2020
     * GPA: 3.92/4.0
