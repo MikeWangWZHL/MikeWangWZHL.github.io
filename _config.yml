@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Zhenhailong Wang"
-  avatar           : "profile.png"
+  avatar           : "zhenhailong_photo.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Champaign, Illinois"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
-  researchgate     : "wangz3@illinois.edu"
+  email            : "wangz3@illinois.edu"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
