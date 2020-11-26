@@ -9,8 +9,8 @@ redirect_from:
 ---
 Welcome to my homepage, I am Zhenhailong Wang, nice to meet you!
 
-I am a M.S. student in Civil Engineering at [University of Illinois Urbana-Champaign](https://illinois.edu/). I am now applying for MS/PHD programs in CS for FALL 2021. I am also working as a graduate research assistant with Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html) at [Blender lab](http://blender.cs.illinois.edu/index.html) at UIUC. 
-Before that, I got my bachelor's degree in Civil Engineering from [Zhejiang University](https://www.zju.edu.cn/english/)
+I am a M.S. student in Civil Engineering at [University of Illinois Urbana-Champaign](https://illinois.edu/). Before that, I got my bachelor's degree in Civil Engineering from [Zhejiang University](https://www.zju.edu.cn/english/). I am now applying for MS/PHD programs in CS for FALL 2021. I am also working as a graduate research assistant with Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html) at [Blender lab](http://blender.cs.illinois.edu/index.html) at UIUC. Prior to BLENDER, I workred at [RAAMAC lab](https://raamac.cee.illinois.edu/) advised by Prof. [Mani Golparvar-Fard](http://cee.illinois.edu/directory/profile/mgolpar) 
+
 
 My research interests lies in general areas of Natrual Language Processing and Computer Vision. Specifically, schema induction, event prediction, and multimedia information extraction.
 
