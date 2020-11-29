@@ -35,7 +35,7 @@ Education
 Publication
 ------
   * NAACL'21 Submission "[Under Anonymous Review]()"
-  * TAC KBP'20 (onging) "[GAIA at SM-KBP 2020: A Dockerlized Multi-media Multi-lingual Knowledge Extraction and Hypothesis Generation System]()" Manling Li, Ying Lin, Tuan Manh Lai, Xiaoman Pan, Haoyang Wen, Zhenhailong Wang, Lifu Huang, Pengfei Yu, Di Lu, Qingyun Wang, Haoran Zhang, Qi Zeng, Chi Han, Zixuan Zhang, Yujia Qin, Xiaodan Hu, Nikolaus Parulian, Daniel Campos, Heng Ji, etc."
+  * TAC KBP'20 (onging) "[GAIA at SM-KBP 2020: A Dockerlized Multi-media Multi-lingual Knowledge Extraction and Hypothesis Generation System]()" Manling Li, Ying Lin, Tuan Manh Lai, Xiaoman Pan, Haoyang Wen, Zhenhailong Wang, Lifu Huang, Pengfei Yu, Di Lu, Qingyun Wang, Haoran Zhang, Qi Zeng, Chi Han, Zixuan Zhang, Yujia Qin, Xiaodan Hu, Nikolaus Parulian, Daniel Campos, Heng Ji, etc.
   
 Experience
 ------
