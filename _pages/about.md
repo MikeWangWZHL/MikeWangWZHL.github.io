@@ -31,7 +31,12 @@ Education
     * GPA: 3.92/4.0
     * Zhejiang Province Government Scholarship (3/127)
     * Acadamic Scholarship (<8%)
-
+    
+Publication
+------
+  * NAACL'21 Submission "[Under Anonymous Review]()"
+  * TAC KBP'20 (onging) "[GAIA at SM-KBP 2020: A Dockerlized Multi-media Multi-lingual Knowledge Extraction and Hypothesis Generation System]()" Manling Li, Ying Lin, Tuan Manh Lai, Xiaoman Pan, Haoyang Wen, Zhenhailong Wang, Lifu Huang, Pengfei Yu, Di Lu, Qingyun Wang, Haoran Zhang, Qi Zeng, Chi Han, Zixuan Zhang, Yujia Qin, Xiaodan Hu, Nikolaus Parulian, Daniel Campos, Heng Ji, etc."
+  
 Experience
 ------
   * **07/2020 - Present, [BLENDER Lab](http://blender.cs.illinois.edu/index.html)**
