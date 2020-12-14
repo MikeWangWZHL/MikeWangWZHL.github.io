@@ -3,7 +3,7 @@ permalink: /markdown/
 title: "Gallery"
 author_profile: true
 redirect_from: 
-  - /md/
+  - /gallery/
   - /markdown.html
 ---
 
@@ -204,3 +204,7 @@ This allows you to denote <var>variables</var>. -->
 
 ## Some Film Photography
 ![test image](https://github.com/MikeWangWZHL/MikeWangWZHL.github.io/blob/master/images/film_photography/Kodak_c200/13093.jpg?raw=true)
+Kodak c200
+
+![test image](https://github.com/MikeWangWZHL/MikeWangWZHL.github.io/blob/master/images/film_photography/Kodak_c200/13093.jpg?raw=true)
+Kodak c200
