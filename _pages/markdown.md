@@ -251,6 +251,9 @@ Kodak gold
 ![test image](https://github.com/MikeWangWZHL/MikeWangWZHL.github.io/blob/master/images/film_photography/Kodak_gold/28971.jpg?raw=true)
 Kodak gold
 
-![test image](https://github.com/MikeWangWZHL/MikeWangWZHL.github.io/blob/master/images/film_photography/Kodak_gold/28983.tif?raw=true)
-Kodak Proimage 100
+![test image](https://github.com/MikeWangWZHL/MikeWangWZHL.github.io/blob/master/images/film_photography/Kodak_gold/000033_5207.JPG?raw=true)
+Kodak 5207
+
+![test image](https://github.com/MikeWangWZHL/MikeWangWZHL.github.io/blob/master/images/film_photography/Kodak_gold/000042.JPG?raw=true)
+Kodak 5207
 
