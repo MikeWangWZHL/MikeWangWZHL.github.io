@@ -206,5 +206,51 @@ This allows you to denote <var>variables</var>. -->
 ![test image](https://github.com/MikeWangWZHL/MikeWangWZHL.github.io/blob/master/images/film_photography/Kodak_c200/13093.jpg?raw=true)
 Kodak c200
 
-![test image](https://github.com/MikeWangWZHL/MikeWangWZHL.github.io/blob/master/images/film_photography/Kodak_c200/13093.jpg?raw=true)
+![test image](https://github.com/MikeWangWZHL/MikeWangWZHL.github.io/blob/master/images/film_photography/Kodak_c200/58176.jpg?raw=true)
 Kodak c200
+
+![test image](https://github.com/MikeWangWZHL/MikeWangWZHL.github.io/blob/master/images/film_photography/Kodak_c200/58185.jpg?raw=true)
+Kodak c200
+
+![test image](https://github.com/MikeWangWZHL/MikeWangWZHL.github.io/blob/master/images/film_photography/Kodak_gold/28941.jpg?raw=true)
+Kodak gold
+
+![test image](https://github.com/MikeWangWZHL/MikeWangWZHL.github.io/blob/master/images/film_photography/Kodak_gold/28942.jpg?raw=true)
+Kodak gold
+
+![test image](https://github.com/MikeWangWZHL/MikeWangWZHL.github.io/blob/master/images/film_photography/Kodak_gold/28944.jpg?raw=true)
+Kodak gold
+
+![test image](https://github.com/MikeWangWZHL/MikeWangWZHL.github.io/blob/master/images/film_photography/Kodak_gold/28947.jpg?raw=true)
+Kodak gold
+
+![test image](https://github.com/MikeWangWZHL/MikeWangWZHL.github.io/blob/master/images/film_photography/Kodak_gold/28948.jpg?raw=true)
+Kodak gold
+
+![test image](https://github.com/MikeWangWZHL/MikeWangWZHL.github.io/blob/master/images/film_photography/Kodak_gold/28951.jpg?raw=true)
+Kodak gold
+
+![test image](https://github.com/MikeWangWZHL/MikeWangWZHL.github.io/blob/master/images/film_photography/Kodak_gold/28952.jpg?raw=true)
+Kodak gold
+
+![test image](https://github.com/MikeWangWZHL/MikeWangWZHL.github.io/blob/master/images/film_photography/Kodak_gold/28953.jpg?raw=true)
+Kodak gold
+
+![test image](https://github.com/MikeWangWZHL/MikeWangWZHL.github.io/blob/master/images/film_photography/Kodak_gold/28965.jpg?raw=true)
+Kodak gold
+
+![test image](https://github.com/MikeWangWZHL/MikeWangWZHL.github.io/blob/master/images/film_photography/Kodak_gold/28967.jpg?raw=true)
+Kodak gold
+
+![test image](https://github.com/MikeWangWZHL/MikeWangWZHL.github.io/blob/master/images/film_photography/Kodak_gold/28968.jpg?raw=true)
+Kodak gold
+
+![test image](https://github.com/MikeWangWZHL/MikeWangWZHL.github.io/blob/master/images/film_photography/Kodak_gold/28970.jpg?raw=true)
+Kodak gold
+
+![test image](https://github.com/MikeWangWZHL/MikeWangWZHL.github.io/blob/master/images/film_photography/Kodak_gold/28971.jpg?raw=true)
+Kodak gold
+
+![test image](https://github.com/MikeWangWZHL/MikeWangWZHL.github.io/blob/master/images/film_photography/Kodak_gold/28983.tif?raw=true)
+Kodak Proimage 100
+
