@@ -16,7 +16,7 @@ My research interests lies in general areas of Natrual Language Processing and C
 
 Recent Highlight
 ------
-  * **Submitted Schema Paper to NAACL 2021**
+  * **Kairos system demonstration paper got accepted to NAACL-HLT**
   * **Our Team beats IBM and CMU, got TOP1 in AIDA TA1 Evaluation**
 
 Education
@@ -34,8 +34,8 @@ Education
     
 Publication
 ------
-  * NAACL'21 Submission "[Under Anonymous Review]()"
-  * TAC KBP'20 (onging) "[GAIA at SM-KBP 2020: A Dockerlized Multi-media Multi-lingual Knowledge Extraction and Hypothesis Generation System]()" Manling Li, Ying Lin, Tuan Manh Lai, Xiaoman Pan, Haoyang Wen, Zhenhailong Wang, Lifu Huang, Pengfei Yu, Di Lu, Qingyun Wang, Haoran Zhang, Qi Zeng, Chi Han, Zixuan Zhang, Yujia Qin, Xiaodan Hu, Nikolaus Parulian, Daniel Campos, Heng Ji, etc.
+  * arxiv "[Future is not One-dimensional: Complex Event Schema Induction via Graph Modeling]()" Manling Li, Sha Li, **Zhenhailong Wang**, Lifu Huang, Kyunghyun Cho, Heng Ji and Jiawei Han
+  * TAC KBP'20 "[GAIA at SM-KBP 2020: A Dockerlized Multi-media Multi-lingual Knowledge Extraction and Hypothesis Generation System]()" Manling Li, Ying Lin, Tuan Manh Lai, Xiaoman Pan, Haoyang Wen, **Zhenhailong Wang**, Lifu Huang, Pengfei Yu, Di Lu, Qingyun Wang, Haoran Zhang, Qi Zeng, Chi Han, Zixuan Zhang, Yujia Qin, Xiaodan Hu, Nikolaus Parulian, Daniel Campos, Heng Ji, etc.
   
 Experience
 ------
