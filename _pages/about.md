@@ -34,7 +34,7 @@ Education
     
 Publication
 ------
-  * arxiv "[Future is not One-dimensional: Complex Event Schema Induction via Graph Modeling]()" Manling Li, Sha Li, **Zhenhailong Wang**, Lifu Huang, Kyunghyun Cho, Heng Ji and Jiawei Han
+  * arxiv "[Future is not One-dimensional: Complex Event Schema Induction via Graph Modeling](https://arxiv.org/pdf/2104.06344.pdf)" Manling Li, Sha Li, **Zhenhailong Wang**, Lifu Huang, Kyunghyun Cho, Heng Ji and Jiawei Han
   * TAC KBP'20 "[GAIA at SM-KBP 2020: A Dockerlized Multi-media Multi-lingual Knowledge Extraction and Hypothesis Generation System]()" Manling Li, Ying Lin, Tuan Manh Lai, Xiaoman Pan, Haoyang Wen, **Zhenhailong Wang**, Lifu Huang, Pengfei Yu, Di Lu, Qingyun Wang, Haoran Zhang, Qi Zeng, Chi Han, Zixuan Zhang, Yujia Qin, Xiaodan Hu, Nikolaus Parulian, Daniel Campos, Heng Ji, etc.
   
 Experience
