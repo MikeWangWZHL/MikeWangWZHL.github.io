@@ -16,6 +16,7 @@ My research interests lies in general areas of Natrual Language Processing, Comp
 
 Recent Highlight
 ------
+  * **Schema induction paper got accepted to EMNLP 2021**
   * **Kairos system demonstration paper got accepted to NAACL-HLT**
   * **Our Team beats IBM and CMU, got TOP1 in AIDA TA1 Evaluation**
 
@@ -36,7 +37,7 @@ Education
     
 Publication
 ------
-  * arxiv "[Future is not One-dimensional: Complex Event Schema Induction via Graph Modeling](https://arxiv.org/pdf/2104.06344.pdf)" Manling Li, Sha Li, **Zhenhailong Wang**, Lifu Huang, Kyunghyun Cho, Heng Ji and Jiawei Han
+  * EMNLP 2021 "[The Future is not One-dimensional: Complex Event Schema Induction by Graph Modeling for Event Predictiong](https://arxiv.org/pdf/2104.06344.pdf)" Manling Li, Sha Li, **Zhenhailong Wang**, Lifu Huang, Kyunghyun Cho, Heng Ji, Jiawei Han and Clare Voss
   * NAACL-HLT 2021 "[RESIN: A Dockerlized Schema-Guided Cross-document Cross-lingual Cross-media Information Extraction and Event Tracking System](https://blender.cs.illinois.edu/paper/resin-phase1.pdf)" Haoyang Wen, Ying Lin, Tuan Lai, Xiaoman Pan, Sha Li, Xudong Lin, Ben Zhou, Manling Li, Haoyu Wang, Hongming Zhang, Xiaodong Yu, Alexander Dong, **Zhenhailong Wang**, Yi Fung, Piyush Mishra, Qing Lyu, Dídac Surís, Brian Chen, Susan Windisch Brown, Martha Palmer, Chris Callison-Burch, Carl Vondrick, Jiawei Han, Dan Roth, Shih-Fu Chang and Heng Ji.
   * TAC 2020 "[GAIA at SM-KBP 2020-A Dockerized Multi-media Multi-lingual Knowledge Extraction, Clustering, Temporal Tracking and Hypothesis Generation System](https://blender.cs.illinois.edu/paper/gaia_smkbp_2020.pdf)" Manling Li, Ying Lin, Tuan Manh Lai, Xiaoman Pan, Haoyang Wen, Sha Li, **Zhenhailong Wang**, Pengfei Yu, Lifu Huang, Di Lu, Qingyun Wang, Haoran Zhang, Qi Zeng, Chi Han, Zixuan Zhang, Yujia Qin, Xiaodan Hu, Nikolaus Parulian, Daniel Campos, Heng Ji, Brian Chen, Xudong Lin, Alireza Zareian, Amith Ananthram, Emily Allaway, Shih-Fu Chang, Kathleen McKeown, Yixiang Yao, Michael Spector, Mitchell DeHaven, Daniel Napierski, Marjorie Freedman, Pedro Szekely, Haidong Zhu, Ram Nevatia, Yang Bai, Yifan Wang, Ali Sadeghian, Haodi Ma, Daisy Zhe Wang
 
