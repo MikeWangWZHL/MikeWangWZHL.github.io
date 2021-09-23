@@ -16,6 +16,7 @@ My research interests lie in general areas of Natural Language Processing, Compu
 
 Recent Highlight
 ------
+  * **EEG decoding paper submitted to AAAI 2022**
   * **Schema induction paper got accepted to EMNLP 2021**
   * **Kairos system demonstration paper got accepted to NAACL-HLT**
   * **Our Team beats IBM and CMU, got TOP1 in AIDA TA1 Evaluation**
