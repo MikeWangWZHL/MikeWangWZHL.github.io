@@ -19,7 +19,7 @@ Recent Highlight
   * **EEG decoding paper accepted to AAAI 2022**
   * **Schema induction paper got accepted to EMNLP 2021**
   * **Kairos system demonstration paper got accepted to NAACL-HLT**
-  * **Our Team beats IBM and CMU, got TOP1 in AIDA TA1 Evaluation**
+  * **Our Team got TOP1 in AIDA TA1 Evaluation**
 
 Education
 ------
