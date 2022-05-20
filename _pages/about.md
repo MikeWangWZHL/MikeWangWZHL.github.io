@@ -12,7 +12,7 @@ Hi there, I am Zhenhailong Wang, Valar Morghulis!
 I am a M.S. student in Computer Science at [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/). Before that, I got my Master's degree in Civil Engineering from [UIUC](https://illinois.edu/) and Bachelor's degree from [Zhejiang University](https://www.zju.edu.cn/english/). I am also working as a graduate research assistant with Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html) at [BLENDER lab](http://blender.cs.illinois.edu/index.html) at UIUC. Prior to BLENDER, I worked at [RAAMAC lab](https://raamac.cee.illinois.edu/) advised by Prof. [Mani Golparvar-Fard](http://cee.illinois.edu/directory/profile/mgolpar). 
 
 
-My research interests lie in general areas of Natural Language Processing, Computer Vision, and Neuroscience. Specifically, schema induction, vision-language understanding, brain-to-text decoding.
+My research interests lie in general areas of Natural Language Processing and Computer Vision. Specifically, vision-language understanding and prompt learning.
 
 Recent Highlight
 ------
