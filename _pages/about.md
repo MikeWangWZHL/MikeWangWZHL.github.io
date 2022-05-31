@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi, I am Zhenhailong Wang, Valar Morghulis!
 
-I am a M.S. student in Computer Science at [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/). Before that, I got my Master's degree in Civil Engineering from [UIUC](https://illinois.edu/) and Bachelor's degree from [Zhejiang University](https://www.zju.edu.cn/english/). I am working as a graduate research assistant with Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html) at [BLENDER lab](http://blender.cs.illinois.edu/index.html) at UIUC. Prior to BLENDER, I worked at [RAAMAC lab](https://raamac.cee.illinois.edu/) advised by Prof. [Mani Golparvar-Fard](http://cee.illinois.edu/directory/profile/mgolpar). 
+I am a M.S. student in Computer Science at [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/). Before that, I got my Master's degree in Civil Engineering from [UIUC](https://illinois.edu/) and Bachelor's degree from [Zhejiang University](https://www.zju.edu.cn/english/). I am working as a graduate research assistant with Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html) at [BLENDER lab](http://blender.cs.illinois.edu/index.html) at UIUC. Prior to BLENDER, I worked at [RAAMAC lab](https://raamac.cee.illinois.edu/) advised by Prof. [Mani Golparvar-Fard](https://cs.illinois.edu/about/people/faculty/mgolpar). 
 
 My research interests lie in general areas of Natural Language Processing and Computer Vision, with special focus on multimodality and prompt learning.
 
@@ -30,7 +30,7 @@ Education
   * **University of Illinois at Urbana-Champaign**
     * M.S. in Civil Engineering, 2019 - 2021
     * GPA: 4.0/4.0
-    * Advisor: Prof. [Mani Golparvar-Fard](http://cee.illinois.edu/directory/profile/mgolpar)
+    * Advisor: Prof. [Mani Golparvar-Fard](https://cs.illinois.edu/about/people/faculty/mgolpar)
   * **Zhejiang University**
     * B.E. in Civil Engineering, 2016 - 2020
     * GPA: 3.92/4.0
@@ -90,7 +90,7 @@ Experience
     * Focus: event schema induction, vision-language understanding
   * **09/2019 - 08/2020, [RAAMAC Lab](https://raamac.cee.illinois.edu/)**
     * Undergraduate Research Assistant
-    * Advisor: Prof. [Mani Golparvar-Fard](http://cee.illinois.edu/directory/profile/mgolpar)
+    * Advisor: Prof. [Mani Golparvar-Fard](https://cs.illinois.edu/about/people/faculty/mgolpar)
     * Focus: autonomous construction performance monitoring
 
 Miscellaneous
