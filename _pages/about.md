@@ -48,7 +48,7 @@ Publication
   Revanth Gangi Reddy, Sai Chetan, <ins>**Zhenhailong Wang**</ins>, Yi R. Fung, Kathryn Conger, Ahmed Elsayed, Martha Palmer, Preslav Nakov, Eduard Hovy, Kevin Small, Heng Ji<br>
   **arXiv:2112.0854** (under review)
 
-  * 6\. **Model-Agnostic Multitask Fine-tuning for Few-shot Vision-Language Transfer Learning** [[PDF](https://arxiv.org/abs/2203.04904)] [[Code](https://github.com/MikeWangWZHL/Multitask-Finetuning_CLIP)]<br>
+  * 6\. **Rethinking Task Sampling for Few-shot Vision-Language Transfer Learning** [[PDF](https://arxiv.org/abs/2203.04904)] [[Code](https://github.com/MikeWangWZHL/Multitask-Finetuning_CLIP)]<br>
   <ins>**Zhenhailong Wang**</ins>, Hang Yu, Manling Li, Han Zhao, Heng Ji<br>
   **arXiv:2203.04904** (under review)
   
