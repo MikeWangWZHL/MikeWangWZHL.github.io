@@ -50,7 +50,7 @@ Publication
 
   * 6\. **Rethinking Task Sampling for Few-shot Vision-Language Transfer Learning** [[PDF](https://arxiv.org/abs/2203.04904)] [[Code](https://github.com/MikeWangWZHL/Multitask-Finetuning_CLIP)]<br>
   <ins>**Zhenhailong Wang**</ins>, Hang Yu, Manling Li, Han Zhao, Heng Ji<br>
-  **arXiv:2203.04904** (under review)
+  **COLING 2022 (MMMPIE Workshop)**
   
   * 5\. **Open Vocabulary Electroencephalography-To-Text Decoding and Zero-shot Sentiment Classification** [[PDF](https://arxiv.org/abs/2112.02690)] [[Code](https://github.com/MikeWangWZHL/EEG-To-Text)]<br> 
   <ins>**Zhenhailong Wang**</ins>, Heng Ji<br>
@@ -78,7 +78,7 @@ Experience
   * **05/2022 - 08/2022, [Tencent AI Lab](https://ai.tencent.com/ailab/en/about/)**
     * Research Intern
     * Mentor: [Xiaoman Pan](https://panx27.github.io/homepage/), [Dian Yu](https://sites.google.com/site/yudiandoris/).
-    * Focus: retrieval-augmented prompt learning
+    * Focus: Zero-shot semi-parametric language models 
   * **01/2022 - 05/2022, [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/)**
     * Collaboration on project [VidIL](https://arxiv.org/abs/2205.10747)
     * Working with [Ruochen Xu](https://www.microsoft.com/en-us/research/people/ruox/), [Luowei Zhou](https://www.microsoft.com/en-us/research/people/luozhou/), [Shuohang Wang](https://www.microsoft.com/en-us/research/people/shuowa/), [Ziyi Yang](https://www.microsoft.com/en-us/research/people/ziyiyang/), [Chenguang Zhu](https://www.microsoft.com/en-us/research/people/chezhu/).
