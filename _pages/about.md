@@ -42,7 +42,7 @@ Publication
 ------
   * 8\. **Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners** [[PDF](https://arxiv.org/abs/2205.10747)] [[Code](https://github.com/MikeWangWZHL/VidIL)]<br>
   <ins>**Zhenhailong Wang**</ins>, Manling Li, Ruochen Xu, Luowei Zhou, Jie Lei, Xudong Lin, Shuohang Wang, Ziyi Yang, Chenguang Zhu, Derek Hoiem, Shih-Fu Chang, Mohit Bansal, Heng Ji<br>
-  **arXiv:2205.10747** (under review)
+  **NeurIPS 2022**
   
   * 7\. **NewsClaims: A New Benchmark for Claim Detection from News with Background Knowledge** [[PDF](https://arxiv.org/abs/2112.08544)] [[Code](https://github.com/blender-nlp/NewsClaims)]<br> 
   Revanth Gangi Reddy, Sai Chetan, <ins>**Zhenhailong Wang**</ins>, Yi R. Fung, Kathryn Conger, Ahmed Elsayed, Martha Palmer, Preslav Nakov, Eduard Hovy, Kevin Small, Heng Ji<br>
