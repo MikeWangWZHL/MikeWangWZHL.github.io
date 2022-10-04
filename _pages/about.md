@@ -35,8 +35,8 @@ Education
   * **Zhejiang University**
     * B.E. in Civil Engineering, 2016 - 2020
     * GPA: 3.92/4.0
-    * Zhejiang Province Government Scholarship (3/127)
-    * Acadamic Scholarship (<8%)
+    * Zhejiang Province Government Scholarship **(<2%)**
+    * Acadamic Scholarship **(<8%)**
      
  
 Publication
