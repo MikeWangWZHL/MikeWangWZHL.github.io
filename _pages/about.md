@@ -11,14 +11,15 @@ Hi, I am Zhenhailong Wang, Valar Morghulis!
 
 I am a M.S. student in Computer Science at [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/). Before that, I got my Master's degree in Civil Engineering from [UIUC](https://illinois.edu/) and Bachelor's degree from [Zhejiang University](https://www.zju.edu.cn/english/). I am working as a graduate research assistant with Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html) at [BLENDER lab](http://blender.cs.illinois.edu/index.html) at UIUC. Prior to BLENDER, I worked at [RAAMAC lab](https://raamac.cee.illinois.edu/) advised by Prof. [Mani Golparvar-Fard](https://cs.illinois.edu/about/people/faculty/mgolpar). 
 
-My research interests lie in general areas of Natural Language Processing and Computer Vision, with special focus on multimodality and prompt learning.
+My research interests lie in general areas of Natural Language Processing and Computer Vision, with special focus on multimodality and language models.
 
 <!-- Recent Highlight
 ------
-  * **Introducing [VidIL](https://arxiv.org/abs/2205.10747), a few-shot Video-language Learner via Image
-and Language models**
-  * **[EEG decoding paper](https://arxiv.org/abs/2112.02690) accepted to AAAI 2022**
-  * **[Schema induction paper](https://arxiv.org/abs/2104.06344) got accepted to EMNLP 2021**
+  * **[Under Review] Introducing [Zemi](https://arxiv.org/abs/2210.00185), the first semi-parametric language model for zero-shot task generalization.**
+  * **[NeurIPS 2022 Accepted] Introducing [VidIL](https://arxiv.org/abs/2205.10747), a few-shot Video-language Learner via Image
+and Language models.**
+  * **[AAAI 2022 Accepted] Introducing [brain-to-text](https://arxiv.org/abs/2112.02690) decoding with language models.**
+  * **[EMNLP 2021 Accepted] Introducing [complex event schema induction](https://arxiv.org/abs/2104.06344) via graph generation.**
 -->
      
 Education
@@ -40,6 +41,10 @@ Education
  
 Publication
 ------
+  * 9\. **Zemi: Learning Zero-Shot Semi-Parametric Language Models from Multiple Tasks** [[PDF](https://arxiv.org/abs/2210.00185)] [[Code](https://github.com/MikeWangWZHL/Zemi)]<br>
+  <ins>**Zhenhailong Wang**</ins>, Xiaoman Pan, Dian Yu, Dong Yu, Jianshu Chen, Heng Ji <br>
+  **arxiv:2210.00185** (under review)
+  
   * 8\. **Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners** [[PDF](https://arxiv.org/abs/2205.10747)] [[Code](https://github.com/MikeWangWZHL/VidIL)]<br>
   <ins>**Zhenhailong Wang**</ins>, Manling Li, Ruochen Xu, Luowei Zhou, Jie Lei, Xudong Lin, Shuohang Wang, Ziyi Yang, Chenguang Zhu, Derek Hoiem, Shih-Fu Chang, Mohit Bansal, Heng Ji<br>
   **NeurIPS 2022**
