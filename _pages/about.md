@@ -51,7 +51,7 @@ Publication
   
   * 7\. **NewsClaims: A New Benchmark for Claim Detection from News with Background Knowledge** [[PDF](https://arxiv.org/abs/2112.08544)] [[Code](https://github.com/blender-nlp/NewsClaims)]<br> 
   Revanth Gangi Reddy, Sai Chetan, <ins>**Zhenhailong Wang**</ins>, Yi R. Fung, Kathryn Conger, Ahmed Elsayed, Martha Palmer, Preslav Nakov, Eduard Hovy, Kevin Small, Heng Ji<br>
-  **arXiv:2112.0854** (under review)
+  **EMNLP 2022**
 
   * 6\. **Rethinking Task Sampling for Few-shot Vision-Language Transfer Learning** [[PDF](https://arxiv.org/abs/2203.04904)] [[Code](https://github.com/MikeWangWZHL/Multitask-Finetuning_CLIP)]<br>
   <ins>**Zhenhailong Wang**</ins>, Hang Yu, Manling Li, Han Zhao, Heng Ji<br>
