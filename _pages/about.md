@@ -98,6 +98,11 @@ Experience
     * Advisor: Prof. [Mani Golparvar-Fard](https://cs.illinois.edu/about/people/faculty/mgolpar)
     * Focus: autonomous construction performance monitoring
 
+Invited Talk
+------
+* 12/6/2022: Microsoft Research NLP PhD Student Invited Talk (Knowledge and Language Team)
+
+
 Miscellaneous
 ------
   * **A [short film](https://www.youtube.com/watch?v=-dyb56lQ-yA&t=2s) written and directed by me, ft.[ITP](https://www.zju.edu.cn/english/2019/1101/c19573a1735987/page.htm) (dialogue in Chinese :)**
