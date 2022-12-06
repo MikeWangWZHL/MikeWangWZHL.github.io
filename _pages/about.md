@@ -9,9 +9,9 @@ redirect_from:
 ---
 Hi, I am Zhenhailong Wang, Valar Morghulis!
 
-I am a M.S. student in Computer Science at [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/). Before that, I got my Master's degree in Civil Engineering from [UIUC](https://illinois.edu/) and Bachelor's degree from [Zhejiang University](https://www.zju.edu.cn/english/). I am working as a graduate research assistant with Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html) at [BLENDER lab](http://blender.cs.illinois.edu/index.html) at UIUC. Prior to BLENDER, I worked at [RAAMAC lab](https://raamac.cee.illinois.edu/) advised by Prof. [Mani Golparvar-Fard](https://cs.illinois.edu/about/people/faculty/mgolpar). 
+I am a second-year M.S. student in Computer Science at [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/). Before that, I got my Master's degree in Civil Engineering from [UIUC](https://illinois.edu/) and Bachelor's degree from [Zhejiang University](https://www.zju.edu.cn/english/). I am working as a graduate research assistant with Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html) at [BLENDER lab](http://blender.cs.illinois.edu/index.html) at UIUC. Prior to BLENDER, I worked at [RAAMAC lab](https://raamac.cee.illinois.edu/) advised by Prof. [Mani Golparvar-Fard](https://cs.illinois.edu/about/people/faculty/mgolpar). 
 
-My research interests lie in general areas of Natural Language Processing and Computer Vision, with special focus on multimodality and language models.
+My research interest lies in generalizable multimodal natural language processing. My first-authored papers have been published at NeurIPS22, AAAI22, and COLING22 workshop. I have been actively involved in several multi-institute research efforts including DARPA KAIROS, AIDA and GAILA.
 
 <!-- Recent Highlight
 ------
