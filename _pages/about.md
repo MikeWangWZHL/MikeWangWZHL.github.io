@@ -101,6 +101,7 @@ Experience
 Invited Talk
 ------
 * 12/6/2022: Microsoft Research NLP PhD Student Invited Talk (Knowledge and Language Team)
+* 2/16/2023: [AI-Time](http://www.aitime.cn/AboutUs) Neurips 2022 Event
 
 
 Miscellaneous
