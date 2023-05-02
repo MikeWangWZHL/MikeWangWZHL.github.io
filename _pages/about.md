@@ -37,6 +37,10 @@ Publication
   <ins>**Zhenhailong Wang**</ins>, Xiaoman Pan, Dian Yu, Dong Yu, Jianshu Chen, Heng Ji <br>
   **ACL 2023 Findings**
   
+   - **A Language First Approach for Procedural Planning** [PDF and Code coming soon]<br>
+  Jiateng Liu, Sha Li, <ins>**Zhenhailong Wang**</ins>, Manling Li and Heng Ji <br>
+  **ACL 2023 Findings**
+  
   - **Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners** [[PDF](https://arxiv.org/abs/2205.10747)] [[Code](https://github.com/MikeWangWZHL/VidIL)]<br>
   <ins>**Zhenhailong Wang**</ins>, Manling Li, Ruochen Xu, Luowei Zhou, Jie Lei, Xudong Lin, Shuohang Wang, Ziyi Yang, Chenguang Zhu, Derek Hoiem, Shih-Fu Chang, Mohit Bansal, Heng Ji<br>
   **NeurIPS 2022**
