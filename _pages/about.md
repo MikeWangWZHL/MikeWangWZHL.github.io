@@ -15,9 +15,9 @@ My research interest lies in generalizable multimodal natural language processin
 Education
 ------
   * **University of Illinois at Urbana-Champaign**
-    * Ph.D. in Computer Science, 2023 - Present | Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
-    * M.S. in Computer Science, 2021 - 2023 | Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
-    * M.S. in Civil Engineering, 2019 - 2021 | Advisor: Prof. [Mani Golparvar-Fard](https://cs.illinois.edu/about/people/faculty/mgolpar)
+    * Ph.D. in Computer Science, 2023 - Present; Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
+    * M.S. in Computer Science, 2021 - 2023; Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
+    * M.S. in Civil Engineering, 2019 - 2021; Advisor: Prof. [Mani Golparvar-Fard](https://cs.illinois.edu/about/people/faculty/mgolpar)
     * GPA: 4.0/4.0
   * **Zhejiang University**
     * B.S. in Civil Engineering, 2016 - 2020
