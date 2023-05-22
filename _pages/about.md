@@ -28,6 +28,10 @@ Education
  
 Publication
 ------
+  - **Paxion: Patching Action Knowledge in Video-Language Foundation Models** [[PDF](https://arxiv.org/abs/2305.10683)] [[Code](https://github.com/MikeWangWZHL/Paxion)]<br>
+  <ins>**Zhenhailong Wang**</ins>, Ansel Blume, Sha Li, Genglin Liu, Jaemin Cho, Zineng Tang, Mohit Bansal, Heng Ji <br>
+  **under review**
+  
   - **Zemi: Learning Zero-Shot Semi-Parametric Language Models from Multiple Tasks** [[PDF](https://arxiv.org/abs/2210.00185)] [[Code](https://github.com/MikeWangWZHL/Zemi)]<br>
   <ins>**Zhenhailong Wang**</ins>, Xiaoman Pan, Dian Yu, Dong Yu, Jianshu Chen, Heng Ji <br>
   **ACL 2023 Findings**
