@@ -79,7 +79,7 @@ Publication
 
 Experience
 ------
-  * **05/2023 - 08/2023, [Microsoft Research Asia](https://ai.tencent.com/ailab/en/about/)**
+  * **05/2023 - 08/2023, [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)**
     * Research Intern
     * Mentor: [Tao Ge](https://www.microsoft.com/en-us/research/people/tage/).
     * Focus: Large language models
