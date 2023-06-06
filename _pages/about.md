@@ -79,10 +79,14 @@ Publication
 
 Experience
 ------
+  * **05/2023 - 08/2023, [Microsoft Research Asia](https://ai.tencent.com/ailab/en/about/)**
+    * Research Intern
+    * Mentor: [Tao Ge](https://www.microsoft.com/en-us/research/people/tage/).
+    * Focus: Large language models
   * **05/2022 - 08/2022, [Tencent AI Lab](https://ai.tencent.com/ailab/en/about/)**
     * Research Intern
-    * Mentor: [Xiaoman Pan](https://panx27.github.io/homepage/), [Dian Yu](https://sites.google.com/site/yudiandoris/).
-    * Focus: Zero-shot semi-parametric language models 
+    * Mentor: [Xiaoman Pan](https://panx27.github.io/homepage/), [Dian Yu](https://sites.google.com/site/yudiandoris/), [Jianshu Chen](https://chenjianshu.github.io/).
+    * Focus: Zero-shot semi-parametric language models
   * **01/2022 - 05/2022, [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/)**
     * Collaboration on project [VidIL](https://arxiv.org/abs/2205.10747)
     * Working with [Ruochen Xu](https://www.microsoft.com/en-us/research/people/ruox/), [Luowei Zhou](https://www.microsoft.com/en-us/research/people/luozhou/), [Shuohang Wang](https://www.microsoft.com/en-us/research/people/shuowa/), [Ziyi Yang](https://www.microsoft.com/en-us/research/people/ziyiyang/), [Chenguang Zhu](https://www.microsoft.com/en-us/research/people/chezhu/).
