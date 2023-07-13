@@ -28,6 +28,10 @@ Education
  
 Publication
 ------
+  - **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration** [[PDF](https://arxiv.org/abs/2307.05300)] [[Code](https://github.com/MikeWangWZHL/Solo-Performance-Prompting)]<br>
+  <ins>**Zhenhailong Wang**, Shaoguang Mao, Wenshan Wu, Tao Ge, Furu Wei, Heng Ji <br>
+  **preprint**
+  
   - **Paxion: Patching Action Knowledge in Video-Language Foundation Models** [[PDF](https://arxiv.org/abs/2305.10683)] [[Code](https://github.com/MikeWangWZHL/Paxion)]<br>
   <ins>**Zhenhailong Wang**</ins>, Ansel Blume, Sha Li, Genglin Liu, Jaemin Cho, Zineng Tang, Mohit Bansal, Heng Ji <br>
   **under review**
@@ -82,7 +86,7 @@ Experience
   * **05/2023 - 08/2023, [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)**
     * Research Intern
     * Mentor: [Tao Ge](https://www.microsoft.com/en-us/research/people/tage/).
-    * Focus: Large language models
+    * Focus: Large language models, Cognitive Synergy
   * **05/2022 - 08/2022, [Tencent AI Lab](https://ai.tencent.com/ailab/en/about/)**
     * Research Intern
     * Mentor: [Xiaoman Pan](https://panx27.github.io/homepage/), [Dian Yu](https://sites.google.com/site/yudiandoris/), [Jianshu Chen](https://chenjianshu.github.io/).
