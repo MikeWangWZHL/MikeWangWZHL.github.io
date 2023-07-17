@@ -85,7 +85,7 @@ Experience
 ------
   * **05/2023 - 08/2023, [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)**
     * Research Intern
-    * Mentor: [Tao Ge](https://www.microsoft.com/en-us/research/people/tage/).
+    * Mentor: [Tao Ge](https://www.microsoft.com/en-us/research/people/tage/), [Shaoguang Mao](https://www.microsoft.com/en-us/research/people/shamao/), [Wenshan Wu](https://www.linkedin.com/in/wenshanwu/?locale=en_US).
     * Focus: Large language models, Cognitive Synergy
   * **05/2022 - 08/2022, [Tencent AI Lab](https://ai.tencent.com/ailab/en/about/)**
     * Research Intern
