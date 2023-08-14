@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhenhailong Wang"
 title_separator          : "-"
 name                     : &name "Zhenhailong Wang"
-description              : &description "MSCS at UIUC"
+description              : &description "Ph.D. in CS at UIUC"
 url                      : https://MikeWangWZHL.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhenhailong Wang"
   avatar           : "zhenhailong_photo.jpg"
-  bio              : "M.S. at UIUC"
+  bio              : "Ph.D. in CS at UIUC"
   location         : "Champaign, Illinois"
   employer         :
   pubmed           : 
