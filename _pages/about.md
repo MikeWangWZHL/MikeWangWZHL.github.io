@@ -30,10 +30,14 @@ Publication
 ------
   - **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration** [[Paper](https://arxiv.org/abs/2307.05300)] [[Code](https://github.com/MikeWangWZHL/Solo-Performance-Prompting)]<br>
   <ins>**Zhenhailong Wang**</ins>, Shaoguang Mao, Wenshan Wu, Tao Ge, Furu Wei, Heng Ji <br>
-  **preprint**
+  **under review**
   
   - **Paxion: Patching Action Knowledge in Video-Language Foundation Models** [[Paper](https://arxiv.org/abs/2305.10683)] [[Code](https://github.com/MikeWangWZHL/Paxion)]<br>
   <ins>**Zhenhailong Wang**</ins>, Ansel Blume, Sha Li, Genglin Liu, Jaemin Cho, Zineng Tang, Mohit Bansal, Heng Ji <br>
+  **NeurIPS 2023 _Spotlight_**
+
+  - **RCOT: Detecting and Rectifying Factual Inconsistency in Reasoning by Reversing Chain-of-Thought** [[Paper](https://arxiv.org/pdf/2305.11499.pdf)]<br>
+  Tianci Xue, Ziqi Wang, <ins>**Zhenhailong Wang**</ins>, Chi Han, Pengfei Yu, Heng Ji <br>
   **under review**
   
   - **Zemi: Learning Zero-Shot Semi-Parametric Language Models from Multiple Tasks** [[Paper](https://aclanthology.org/2023.findings-acl.246/)] [[Code](https://github.com/MikeWangWZHL/Zemi)]<br>
