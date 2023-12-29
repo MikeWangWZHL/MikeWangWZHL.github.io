@@ -10,7 +10,7 @@ redirect_from:
 Hi there! I'm **Zhenhailong Wang** (王镇海龙). I am a first year Ph.D. in Computer Science at [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/). Before that, I got my M.S. in Computer Science and Civil Engineering from [UIUC](https://illinois.edu/) and B.S. from [Zhejiang University](https://www.zju.edu.cn/english/). 
 I am working as a graduate research assistant with Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html) at [BLENDER lab](http://blender.cs.illinois.edu/index.html). Prior to BLENDER, I worked at [RAAMAC lab](https://raamac.cee.illinois.edu/) advised by Prof. [Mani Golparvar-Fard](https://cs.illinois.edu/about/people/faculty/mgolpar). 
 
-My research interest lies in generalizable multimodal natural language processing. My first-authored papers have been published at ACL23, NeurIPS22, AAAI22, and COLING22 workshop. I have been actively involved in several multi-institute research efforts including DARPA KAIROS, AIDA and GAILA.
+My research interest lies in generalizable multimodal natural language processing. My first-authored papers have been published at NeurIPS23, ACL23, NeurIPS22, and AAAI22. I have been actively involved in several multi-institute research efforts including DARPA KAIROS, AIDA and GAILA.
      
 Education
 ------
@@ -18,7 +18,7 @@ Education
     * Ph.D. in Computer Science, 2023 - Present; Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
     * M.S. in Computer Science, 2021 - 2023; Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
     * M.S. in Civil Engineering, 2019 - 2021; Advisor: Prof. [Mani Golparvar-Fard](https://cs.illinois.edu/about/people/faculty/mgolpar)
-    * GPA: 4.0/4.0
+    * GPA: 3.98/4.0
   * **Zhejiang University**
     * B.S. in Civil Engineering, 2016 - 2020
     * GPA: 3.92/4.0
