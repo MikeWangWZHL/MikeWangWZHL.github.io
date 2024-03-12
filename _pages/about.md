@@ -113,6 +113,7 @@ Invited Talk
 ------
 * 12/6/2022: Microsoft Research NLP PhD Student Invited Talk (Knowledge and Language Team)
 * 2/16/2023: [AI-Time](http://www.aitime.cn/AboutUs) Neurips 2022 Event
+* 3/9/2024: [LLM and AI Agent Reading Group](https://swarma.org/?p=48803)
 
 
 Miscellaneous
