@@ -28,7 +28,7 @@ Education
  
 Publication
 ------
-  - **Text-based Reasoning About Vector Graphics** [[Paper (Coming Soon)]()] [[Project Page]()]<br>
+  - **Text-based Reasoning About Vector Graphics** [[Paper (Coming Soon)]()] [[Project Page](https://mikewangwzhl.github.io/VDLM/)]<br>
     <ins>**Zhenhailong Wang**</ins>, Joy Hsu, Xingyao Wang, Kuan-Hao Huang, Manling Li, Jiajun Wu, Heng Ji<br>
     
   - **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration** [[Paper](https://arxiv.org/abs/2307.05300)] [[Code](https://github.com/MikeWangWZHL/Solo-Performance-Prompting)]<br>
