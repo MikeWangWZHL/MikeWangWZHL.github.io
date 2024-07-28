@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! I'm **Zhenhailong Wang** (王镇海龙). I am a first year Ph.D. in Computer Science at [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/). Before that, I got my M.S. in Computer Science and Civil Engineering from [UIUC](https://illinois.edu/) and B.S. from [Zhejiang University](https://www.zju.edu.cn/english/). 
+Hi there! I'm **Zhenhailong Wang** (王镇海龙). I am a second year Ph.D. in Computer Science at [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/). Before that, I got my M.S. in Computer Science and Civil Engineering from [UIUC](https://illinois.edu/) and B.S. from [Zhejiang University](https://www.zju.edu.cn/english/). 
 I am working as a graduate research assistant with Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html) at [BLENDER lab](http://blender.cs.illinois.edu/index.html). Prior to BLENDER, I worked at [RAAMAC lab](https://raamac.cee.illinois.edu/) advised by Prof. [Mani Golparvar-Fard](https://cs.illinois.edu/about/people/faculty/mgolpar). 
 
 My research interest lies in generalizable multimodal natural language processing. My first-authored papers have been published at NeurIPS23, ACL23, NeurIPS22, and AAAI22. I have been actively involved in several multi-institute research efforts including DARPA [ECOLE](https://cs.illinois.edu/news/illinois-led-darpa-project), KAIROS, AIDA and GAILA.
@@ -91,6 +91,10 @@ Publication
 
 Experience
 ------
+  * **06/2024 - present, [Salesforce AI Research](https://www.salesforceairesearch.com/about)**
+    * Research Intern
+    * Mentor: [Senthil Purushwalkam](https://www.senthilpurushwalkam.com/), [Congying Xia](https://www.linkedin.com/in/congying-xia-391b16b9/), [Ran Xu](https://www.linkedin.com/in/ran-x-a2765924/).
+    * Focus: Visual Tokenization, Generative Models
   * **05/2023 - 08/2023, [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)**
     * Research Intern
     * Mentor: [Tao Ge](https://www.microsoft.com/en-us/research/people/tage/), [Shaoguang Mao](https://www.microsoft.com/en-us/research/people/shamao/), [Wenshan Wu](https://www.linkedin.com/in/wenshanwu/?locale=en_US).
