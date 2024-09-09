@@ -32,6 +32,10 @@ Publication
     <ins>**Zhenhailong Wang**</ins>, Joy Hsu, Xingyao Wang, Kuan-Hao Huang, Manling Li, Jiajun Wu, Heng Ji<br>
     **under review**
     
+  - **Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning** [[Paper](https://arxiv.org/abs/2312.10160)] [[Project Page](https://khuangaf.github.io/CHOCOLATE/)]<br>
+    Kung-Hsiang Huang, Mingyang Zhou, Hou Pong Chan, Yi R. Fung, <ins>**Zhenhailong Wang**</ins>, Lingyu Zhang, Shih-Fu Chang, Heng Ji<br>
+    **ACL 2024 Findings**
+    
   - **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration** [[Paper](https://arxiv.org/abs/2307.05300)] [[Code](https://github.com/MikeWangWZHL/Solo-Performance-Prompting)]<br>
   <ins>**Zhenhailong Wang**</ins>, Shaoguang Mao, Wenshan Wu, Tao Ge, Furu Wei, Heng Ji <br>
   **NAACL 2024**
@@ -42,8 +46,8 @@ Publication
 
   - **RCOT: Detecting and Rectifying Factual Inconsistency in Reasoning by Reversing Chain-of-Thought** [[Paper](https://arxiv.org/pdf/2305.11499.pdf)]<br>
   Tianci Xue, Ziqi Wang, <ins>**Zhenhailong Wang**</ins>, Chi Han, Pengfei Yu, Heng Ji <br>
-  **under review**
-  
+  **Arxiv preprint**
+
   - **Zemi: Learning Zero-Shot Semi-Parametric Language Models from Multiple Tasks** [[Paper](https://aclanthology.org/2023.findings-acl.246/)] [[Code](https://github.com/MikeWangWZHL/Zemi)]<br>
   <ins>**Zhenhailong Wang**</ins>, Xiaoman Pan, Dian Yu, Dong Yu, Jianshu Chen, Heng Ji <br>
   **ACL 2023 Findings**
