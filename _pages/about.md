@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! I'm **Zhenhailong Wang** (王镇海龙). I am a second year Ph.D. in Computer Science at [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/). Before that, I got my M.S. in Computer Science and Civil Engineering from [UIUC](https://illinois.edu/) and B.S. from [Zhejiang University](https://www.zju.edu.cn/english/). 
-I am working as a graduate research assistant with Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html) at [BLENDER lab](http://blender.cs.illinois.edu/index.html). Prior to BLENDER, I worked at [RAAMAC lab](https://raamac.cee.illinois.edu/) advised by Prof. [Mani Golparvar-Fard](https://cs.illinois.edu/about/people/faculty/mgolpar). 
+Hi there! I'm **Zhenhailong Wang** (王镇海龙). I am a second year Ph.D. in Computer Science at [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/) advised by Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html). 
+Before that, I got my M.S. in Computer Science and Civil Engineering from [UIUC](https://illinois.edu/) and B.S. from [Zhejiang University](https://www.zju.edu.cn/english/). 
 
-My research interest lies in generalizable multimodal natural language processing. My first-authored papers have been published at NeurIPS23, ACL23, NeurIPS22, and AAAI22. I have been actively involved in several multi-institute research efforts including DARPA [ECOLE](https://cs.illinois.edu/news/illinois-led-darpa-project), KAIROS, AIDA and GAILA.
+My research interest lies in the perception and reasoning of large multimodal models. For my most recent publications, please check my [Google Scholar](https://scholar.google.com/citations?user=arzvOlgAAAAJ&hl=en). I have also been actively involved in several multi-institute research efforts including [ECOLE](https://cs.illinois.edu/news/illinois-led-darpa-project), [KAIROS](https://www.darpa.mil/program/knowledge-directed-artificial-intelligence-reasoning-over-schemas), and [AIDA](https://www.darpa.mil/program/active-interpretation-of-disparate-alternatives).
      
 Education
 ------
@@ -26,7 +26,7 @@ Education
     * Acadamic Scholarship **(<8%)**
      
  
-Publication
+Selected Publication
 ------
   - **Text-based Reasoning About Vector Graphics** [[Paper](https://arxiv.org/abs/2404.06479)] [[Project Page](https://mikewangwzhl.github.io/VDLM/)]<br>
     <ins>**Zhenhailong Wang**</ins>, Joy Hsu, Xingyao Wang, Kuan-Hao Huang, Manling Li, Jiajun Wu, Heng Ji<br>
@@ -52,7 +52,7 @@ Publication
   <ins>**Zhenhailong Wang**</ins>, Xiaoman Pan, Dian Yu, Dong Yu, Jianshu Chen, Heng Ji <br>
   **ACL 2023 Findings**
   
-   - **A Language First Approach for Procedural Planning** [[Paper](https://aclanthology.org/2023.findings-acl.122/)] <br>
+ - **A Language First Approach for Procedural Planning** [[Paper](https://aclanthology.org/2023.findings-acl.122/)] <br>
   Jiateng Liu, Sha Li, <ins>**Zhenhailong Wang**</ins>, Manling Li and Heng Ji <br>
   **ACL 2023 Findings**
   
@@ -64,9 +64,10 @@ Publication
   Revanth Gangi Reddy, Sai Chetan, <ins>**Zhenhailong Wang**</ins>, Yi R. Fung, Kathryn Conger, Ahmed Elsayed, Martha Palmer, Preslav Nakov, Eduard Hovy, Kevin Small, Heng Ji<br>
   **EMNLP 2022**
 
-  - **Rethinking Task Sampling for Few-shot Vision-Language Transfer Learning** [[PDF](https://aclanthology.org/2022.mmmpie-1.2.pdf)] [[Code](https://github.com/MikeWangWZHL/Multitask-Finetuning_CLIP)]<br>
+  <!-- - **Rethinking Task Sampling for Few-shot Vision-Language Transfer Learning** [[PDF](https://aclanthology.org/2022.mmmpie-1.2.pdf)] [[Code](https://github.com/MikeWangWZHL/Multitask-Finetuning_CLIP)]<br>
   <ins>**Zhenhailong Wang**</ins>, Hang Yu, Manling Li, Han Zhao, Heng Ji<br>
   **COLING 2022 (MMMPIE Workshop)**
+  -->
   
   - **Open Vocabulary Electroencephalography-To-Text Decoding and Zero-shot Sentiment Classification** [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/20472/20231)] [[Code](https://github.com/MikeWangWZHL/EEG-To-Text)]<br> 
   <ins>**Zhenhailong Wang**</ins>, Heng Ji<br>
@@ -76,21 +77,23 @@ Publication
   Manling Li, Sha Li, <ins>**Zhenhailong Wang**</ins>, Lifu Huang, Kyunghyun Cho, Heng Ji, Jiawei Han and Clare Voss<br>
   **EMNLP 2021**
 
+<!--
   - **RESIN-11: Schema-guided Event Prediction for 11 Newsworthy Scenarios** [[Paper](https://aclanthology.org/2022.naacl-demo.7/)] [[Code](https://github.com/RESIN-KAIROS/RESIN-11)] [[Demo](http://18.221.187.153:11000/kairos)] [[Video](https://screencast-o-matic.com/watch/c3nlhnVbeyg)]<br>
   Xinya Du, Zixuan Zhang, Sha Li, and 27 others including <ins>**Zhenhailong Wang**</ins><br> 
   **NAACL 2022 Demo**
+-->
 <!--   Pengfei Yu, Hongwei Wang, Tuan Manh Lai, Xudong Lin, Ziqi Wang, Iris Liu, Ben Zhou, Haoyang Wen, Manling Li, Darryl Hannan, Qi Zeng, Qing Lyu, Charles Yu, Carl Edwards, Xiaomeng Jin, Yizhu Jiao, Ghazaleh Kazeminejad, Rotem Dror, <ins>**Zhenhailong Wang**</ins>, Chris Callison-Burch, Mohit Bansal, Carl Vondrick, Jiawei Han, Dan Roth, Shih-Fu Chang, Martha Palmer, Heng Ji<br> -->
 
+<!--
   - **RESIN: A Dockerlized Schema-Guided Cross-document Cross-lingual Cross-media Information Extraction and Event Tracking System** [[Paper](https://aclanthology.org/2021.naacl-demos.16/)] [[Code](https://github.com/RESIN-KAIROS/RESIN-pipeline-public)] [[Video](http://blender.cs.illinois.edu/software/resin/resin.mp4)]<br>
   Haoyang Wen, Ying Lin, Tuan Lai, Xiaoman Pan, Sha Li, and 21 others including <ins>**Zhenhailong Wang**</ins><br>
   **NAACL 2021 Demo**
-<!--   Xudong Lin, Ben Zhou, Manling Li, Haoyu Wang, Hongming Zhang, Xiaodong Yu, Alexander Dong, <ins>**Zhenhailong Wang**</ins>, Yi Fung, Piyush Mishra, Qing Lyu,    Dídac Surís, Brian Chen, Susan Windisch Brown, Martha Palmer, Chris Callison-Burch, Carl Vondrick, Jiawei Han, Dan Roth, Shih-Fu Chang, Heng Ji<br> -->
 
+<!--
   - **GAIA at SM-KBP 2020 - A Dockerized Multi-media Multi-lingual Knowledge Extraction, Clustering, Temporal Tracking and Hypothesis Generation System** [<a href='https://dsr.cise.ufl.edu/wp-content/uploads/2021/02/gaia_smkbp_2020.pdf'>Paper</a>] [<a href='https://tac.nist.gov/2020/KBP/SM-KBP/index.html'>Project</a>] <br>
   Manling Li, Ying Lin, Tuan Manh Lai, Xiaoman Pan, Haoyang Wen, Sha Li, <ins>**Zhenhailong Wang**</ins>, and 34 others<br>
   **TAC-KBP 2020 Demo**
-<!--   Pengfei Yu, Lifu Huang, Di Lu, Qingyun Wang, Haoran Zhang, Qi Zeng, Chi Han, Zixuan Zhang, Yujia Qin, Xiaodan Hu, Nikolaus Parulian, Daniel Campos, Heng Ji, Brian Chen, Xudong Lin, Alireza Zareian, Amith Ananthram, Emily Allaway, Shih-Fu Chang, Kathleen McKeown, Yixiang Yao, Yifan Wang, Michael Spector, Mitchell DeHaven, Daniel Napierski, Marjorie Freedman, Pedro Szekely, Haidong Zhu, Ram Nevatia, Yang Bai, Yifan Wang, Ali Sadeghian, Haodi Ma, Daisy Zhe Wang <br> -->
-
+-->
 
 
 Experience
@@ -113,13 +116,11 @@ Experience
   * **07/2020 - Present, [BLENDER Lab](http://blender.cs.illinois.edu/index.html)**
     * Graduate Research Assistant
     * Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
-    * Programs: Knowledge-directed Artificial Intelligence Reasoning Over Schemas([KAIROS](https://www.darpa.mil/program/knowledge-directed-artificial-intelligence-reasoning-over-schemas));
-    Active Interpretation of Disparate Alternatives([AIDA](https://www.darpa.mil/program/active-interpretation-of-disparate-alternatives)).
-    * Focus: event schema induction, vision-language understanding
+    * Focus: Information Extraction and Multimodal Models
   * **09/2019 - 08/2020, [RAAMAC Lab](https://raamac.cee.illinois.edu/)**
     * Undergraduate Research Assistant
     * Advisor: Prof. [Mani Golparvar-Fard](https://cs.illinois.edu/about/people/faculty/mgolpar)
-    * Focus: autonomous construction performance monitoring
+    * Focus: Autonomous construction performance monitoring
 
 Invited Talk
 ------
