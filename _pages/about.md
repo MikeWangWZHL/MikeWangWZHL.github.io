@@ -28,7 +28,7 @@ Education
  
 Selected Publication
 ------
-  - **Text-based Reasoning About Vector Graphics** [[Paper](https://arxiv.org/abs/2404.06479)] [[Project Page](https://mikewangwzhl.github.io/VDLM/)]<br>
+  - **Visually Descriptive Language Model for Vector Graphics Reasoning** [[Paper](https://arxiv.org/abs/2404.06479)] [[Project Page](https://mikewangwzhl.github.io/VDLM/)]<br>
     <ins>**Zhenhailong Wang**</ins>, Joy Hsu, Xingyao Wang, Kuan-Hao Huang, Manling Li, Jiajun Wu, Heng Ji<br>
     **under review**
     
