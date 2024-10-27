@@ -122,11 +122,12 @@ Experience
     * Advisor: Prof. [Mani Golparvar-Fard](https://cs.illinois.edu/about/people/faculty/mgolpar)
     * Focus: Autonomous construction performance monitoring
 
-Invited Talk
+Invited Talk, Service
 ------
 * 12/6/2022: Microsoft Research NLP PhD Student Invited Talk (Knowledge and Language Team)
 * 2/16/2023: [AI-Time](http://www.aitime.cn/AboutUs) Neurips 2022 Event
 * 3/9/2024: [LLM and AI Agent Reading Group](https://swarma.org/?p=48803)
+* Fall 2024: Teaching Assistant for [CS 546: Advanced Topics in Natural Language Processing](https://blender.cs.illinois.edu/course/fall24/anlp.html), with a guest lecture on LLM-based Agents. 
 
 
 Miscellaneous
