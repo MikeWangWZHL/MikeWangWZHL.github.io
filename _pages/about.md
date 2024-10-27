@@ -7,26 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! I'm **Zhenhailong Wang** (王镇海龙). I am a second year Ph.D. in Computer Science at [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/) advised by Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html). 
+Hi there! I'm **Zhenhailong Wang** (王镇海龙). I am a second year Ph.D. in Computer Science at [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/) advised by Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html). Expected graduation in May 2026.
 Before that, I got my M.S. in Computer Science and Civil Engineering from [UIUC](https://illinois.edu/) and B.S. from [Zhejiang University](https://www.zju.edu.cn/english/). 
 
-My research interest lies in the perception and reasoning of large multimodal models. For my most recent publications, please check my [Google Scholar](https://scholar.google.com/citations?user=arzvOlgAAAAJ&hl=en). I have also been actively involved in several multi-institute research efforts including [ECOLE](https://cs.illinois.edu/news/illinois-led-darpa-project), [KAIROS](https://www.darpa.mil/program/knowledge-directed-artificial-intelligence-reasoning-over-schemas), and [AIDA](https://www.darpa.mil/program/active-interpretation-of-disparate-alternatives).
-     
-Education
+My Research
 ------
-  * **University of Illinois at Urbana-Champaign**
-    * Ph.D. in Computer Science, 2023 - Present; Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
-    * M.S. in Computer Science, 2021 - 2023; Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
-    * M.S. in Civil Engineering, 2019 - 2021; Advisor: Prof. [Mani Golparvar-Fard](https://cs.illinois.edu/about/people/faculty/mgolpar)
-    * GPA: 3.98/4.0
-  * **Zhejiang University**
-    * B.S. in Civil Engineering, 2016 - 2020
-    * GPA: 3.92/4.0
-    * Zhejiang Province Government Scholarship **(<2%)**
-    * Acadamic Scholarship **(<8%)**
-     
+My research focuses on building large multimodal models with human-like perception and reasoning in complex environments. I aim to equip them with the ability to perceive, decide, interact, and learn using system-2 reasoning—engaging in deeper, more thoughtful processes for smarter decisions. For my most recent publications, please check my [Google Scholar](https://scholar.google.com/citations?user=arzvOlgAAAAJ&hl=en). 
+I have also been actively involved in several multi-institute research efforts including [ECOLE](https://cs.illinois.edu/news/illinois-led-darpa-project), [KAIROS](https://www.darpa.mil/program/knowledge-directed-artificial-intelligence-reasoning-over-schemas), and [AIDA](https://www.darpa.mil/program/active-interpretation-of-disparate-alternatives).
  
-Selected Publication
+Selected Publications
 ------
   - **Visually Descriptive Language Model for Vector Graphics Reasoning** [[Paper](https://arxiv.org/abs/2404.06479)] [[Project Page](https://mikewangwzhl.github.io/VDLM/)]<br>
     <ins>**Zhenhailong Wang**</ins>, Joy Hsu, Xingyao Wang, Kuan-Hao Huang, Manling Li, Jiajun Wu, Heng Ji<br>
@@ -121,6 +110,21 @@ Experience
     * Undergraduate Research Assistant
     * Advisor: Prof. [Mani Golparvar-Fard](https://cs.illinois.edu/about/people/faculty/mgolpar)
     * Focus: Autonomous construction performance monitoring
+
+
+Education
+------
+  * **University of Illinois at Urbana-Champaign**
+    * Ph.D. in Computer Science, 2023 - Present; Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
+    * M.S. in Computer Science, 2021 - 2023; Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
+    * M.S. in Civil Engineering, 2019 - 2021; Advisor: Prof. [Mani Golparvar-Fard](https://cs.illinois.edu/about/people/faculty/mgolpar)
+    * GPA: 3.98/4.0
+  * **Zhejiang University**
+    * B.S. in Civil Engineering, 2016 - 2020
+    * GPA: 3.92/4.0
+    * Zhejiang Province Government Scholarship **(<2%)**
+    * Acadamic Scholarship **(<8%)**
+
 
 Invited Talk, Service
 ------
