@@ -91,7 +91,7 @@ Selected Publications
 
 Experience
 ------
-  * **06/2024 - present, [Salesforce AI Research](https://www.salesforceairesearch.com/about)**
+  * **06/2024 - 01/2025, [Salesforce AI Research](https://www.salesforceairesearch.com/about)**
     * Research Intern
     * Mentor: [Senthil Purushwalkam](https://www.senthilpurushwalkam.com/), [Congying Xia](https://www.linkedin.com/in/congying-xia-391b16b9/), [Ran Xu](https://www.linkedin.com/in/ran-x-a2765924/).
     * Focus: Visual Tokenization, Generative Models
