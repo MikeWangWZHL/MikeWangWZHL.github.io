@@ -12,8 +12,7 @@ Before that, I got my M.S. in Computer Science and Civil Engineering from [UIUC]
 
 My Research
 ------
-My research focuses on building large multimodal models (LMMs) and LMM-brained agents with human-like perception and reasoning. I aim to equip these models with the capability for system-2 reasoning, as well as long-term, personalized decision-making in dynamic and complex environments. For my most recent publications, please check my [Google Scholar](https://scholar.google.com/citations?user=arzvOlgAAAAJ&hl=en). 
-I have also been actively involved in several multi-institute research efforts including [ECOLE](https://cs.illinois.edu/news/illinois-led-darpa-project), [KAIROS](https://www.darpa.mil/program/knowledge-directed-artificial-intelligence-reasoning-over-schemas), and [AIDA](https://www.darpa.mil/program/active-interpretation-of-disparate-alternatives).
+My research focuses on building large multimodal models (LMMs) and LMM-brained agents with human-like perception and reasoning. I aim to equip these models with the capability for system-2 reasoning, as well as long-term, personalized decision-making in dynamic and complex environments. For my most recent publications, please check my [Google Scholar](https://scholar.google.com/citations?user=arzvOlgAAAAJ&hl=en).
  
 Selected Publications
 ------
