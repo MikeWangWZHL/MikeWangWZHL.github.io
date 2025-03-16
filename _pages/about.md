@@ -21,7 +21,7 @@ Selected Publications
     **under review**
 
   - **Infogent: An Agent-Based Framework for Web Information Aggregation** [[Paper](https://arxiv.org/pdf/2410.19054)] [[Project Page](https://gangiswag.github.io/infogent/)]<br>
-    Revanth Gangi Reddy*, Sagnik Mukherjee*, Jeonghwan Kim*, <ins>**Zhenhailong Wang***</ins>, Dilek Hakkani-Tur, Heng Ji<br>
+    Revanth Gangi Reddy*, Sagnik Mukherjee*, Jeonghwan Kim*, <ins>**Zhenhailong Wang**</ins>*, Dilek Hakkani-Tur, Heng Ji<br>
     **NAACL 2025 Findings**
     
   - **Visually Descriptive Language Model for Vector Graphics Reasoning** [[Paper](https://arxiv.org/abs/2404.06479)] [[Project Page](https://mikewangwzhl.github.io/VDLM/)]<br>
