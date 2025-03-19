@@ -12,7 +12,7 @@ Before that, I got my M.S. in Computer Science and Civil Engineering from [UIUC]
 
 My Research
 ------
-My research focuses on building large multimodal models (LMMs) and LMM-brained agents with human-like perception and reasoning. I aim to equip these models with the capability for system-2 reasoning, as well as long-term, personalized decision-making in dynamic and complex environments. For my most recent publications, please check my [Google Scholar](https://scholar.google.com/citations?user=arzvOlgAAAAJ&hl=en).
+My research focuses on building large multimodal models (LMMs) and LMM-brained agents with human-like perception and reasoning. I aim to equip these models with the capability for system-2 reasoning, as well as efficient decision-making in dynamic and complex environments. For my most recent publications, please check my [Google Scholar](https://scholar.google.com/citations?user=arzvOlgAAAAJ&hl=en).
  
 Selected Publications
 ------
@@ -97,26 +97,27 @@ Experience
   * **06/2024 - 01/2025, [Salesforce AI Research](https://www.salesforceairesearch.com/about)**
     * Research Intern
     * Mentor: [Senthil Purushwalkam](https://www.senthilpurushwalkam.com/), [Congying Xia](https://www.linkedin.com/in/congying-xia-391b16b9/), [Ran Xu](https://www.linkedin.com/in/ran-x-a2765924/).
-    * Focus: Visual Tokenization, Generative Models
+    * Focus: Efficient Variable-length Visual Encoding
   * **05/2023 - 08/2023, [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)**
     * Research Intern
     * Mentor: [Tao Ge](https://www.microsoft.com/en-us/research/people/tage/), [Shaoguang Mao](https://www.microsoft.com/en-us/research/people/shamao/), [Wenshan Wu](https://www.linkedin.com/in/wenshanwu/?locale=en_US).
-    * Focus: Large language models, Cognitive Synergy
+    * Focus: Large Language Models, Multi-persona Collaboration
   * **05/2022 - 08/2022, [Tencent AI Lab](https://ai.tencent.com/ailab/en/about/)**
     * Research Intern
     * Mentor: [Xiaoman Pan](https://panx27.github.io/homepage/), [Dian Yu](https://sites.google.com/site/yudiandoris/), [Jianshu Chen](https://chenjianshu.github.io/).
-    * Focus: Zero-shot semi-parametric language models
+    * Focus: Retrieval Augmented Generation
   * **01/2022 - 05/2022, [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/)**
     * Collaboration on project [VidIL](https://arxiv.org/abs/2205.10747)
     * Working with [Ruochen Xu](https://www.microsoft.com/en-us/research/people/ruox/), [Luowei Zhou](https://www.microsoft.com/en-us/research/people/luozhou/), [Shuohang Wang](https://www.microsoft.com/en-us/research/people/shuowa/), [Ziyi Yang](https://www.microsoft.com/en-us/research/people/ziyiyang/), [Chenguang Zhu](https://www.microsoft.com/en-us/research/people/chezhu/).
+    * Focus: Video-Language Understanding
   * **07/2020 - Present, [BLENDER Lab](http://blender.cs.illinois.edu/index.html)**
     * Graduate Research Assistant
     * Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
-    * Focus: Information Extraction and Multimodal Models
+    * Focus: Large Multimodal Models and Multimodal Agents
   * **09/2019 - 08/2020, [RAAMAC Lab](https://raamac.cee.illinois.edu/)**
     * Undergraduate Research Assistant
     * Advisor: Prof. [Mani Golparvar-Fard](https://cs.illinois.edu/about/people/faculty/mgolpar)
-    * Focus: Autonomous construction performance monitoring
+    * Focus: Robotics
 
 
 Education
