@@ -30,7 +30,7 @@ Selected Publications
     
   - **Visually Descriptive Language Model for Vector Graphics Reasoning** [[Paper](https://arxiv.org/abs/2404.06479)] [[Project Page](https://mikewangwzhl.github.io/VDLM/)]<br>
     <ins>**Zhenhailong Wang**</ins>, Joy Hsu, Xingyao Wang, Kuan-Hao Huang, Manling Li, Jiajun Wu, Heng Ji<br>
-    **under review**
+    **TMLR;** [CVPR25 Workshop MAR Spotlight](https://marworkshop.github.io/cvpr25/index.html)
     
   - **Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning** [[Paper](https://arxiv.org/abs/2312.10160)] [[Project Page](https://khuangaf.github.io/CHOCOLATE/)]<br>
     Kung-Hsiang Huang, Mingyang Zhou, Hou Pong Chan, Yi R. Fung, <ins>**Zhenhailong Wang**</ins>, Lingyu Zhang, Shih-Fu Chang, Heng Ji<br>
