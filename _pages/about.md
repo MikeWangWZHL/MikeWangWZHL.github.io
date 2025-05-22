@@ -38,7 +38,7 @@ Selected Publications
     
   - **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration** [[Paper](https://arxiv.org/abs/2307.05300)] [[Code](https://github.com/MikeWangWZHL/Solo-Performance-Prompting)]<br>
   <ins>**Zhenhailong Wang**</ins>, Shaoguang Mao, Wenshan Wu, Tao Ge, Furu Wei, Heng Ji <br>
-  **NAACL 2024**
+  **NAACL 2024 main**
   
   - **Paxion: Patching Action Knowledge in Video-Language Foundation Models** [[Paper](https://arxiv.org/abs/2305.10683)] [[Code](https://github.com/MikeWangWZHL/Paxion)]<br>
   <ins>**Zhenhailong Wang**</ins>, Ansel Blume, Sha Li, Genglin Liu, Jaemin Cho, Zineng Tang, Mohit Bansal, Heng Ji <br>
@@ -62,7 +62,7 @@ Selected Publications
   
   - **NewsClaims: A New Benchmark for Claim Detection from News with Background Knowledge** [[Paper](https://aclanthology.org/2022.emnlp-main.403/)] [[Code](https://github.com/blender-nlp/NewsClaims)]<br> 
   Revanth Gangi Reddy, Sai Chetan, <ins>**Zhenhailong Wang**</ins>, Yi R. Fung, Kathryn Conger, Ahmed Elsayed, Martha Palmer, Preslav Nakov, Eduard Hovy, Kevin Small, Heng Ji<br>
-  **EMNLP 2022**
+  **EMNLP 2022 main**
 
   <!-- - **Rethinking Task Sampling for Few-shot Vision-Language Transfer Learning** [[PDF](https://aclanthology.org/2022.mmmpie-1.2.pdf)] [[Code](https://github.com/MikeWangWZHL/Multitask-Finetuning_CLIP)]<br>
   <ins>**Zhenhailong Wang**</ins>, Hang Yu, Manling Li, Han Zhao, Heng Ji<br>
@@ -75,7 +75,7 @@ Selected Publications
   
   - **The Future is not One-dimensional: Complex Event Schema Induction by Graph Modeling for Event Prediction** [<a href='https://aclanthology.org/2021.emnlp-main.422/'>Paper</a>] [<a href='https://github.com/limanling/temporal-graph-schema'>Code</a>] <br>
   Manling Li, Sha Li, <ins>**Zhenhailong Wang**</ins>, Lifu Huang, Kyunghyun Cho, Heng Ji, Jiawei Han and Clare Voss<br>
-  **EMNLP 2021**
+  **EMNLP 2021 main**
 
 <!--
   - **RESIN-11: Schema-guided Event Prediction for 11 Newsworthy Scenarios** [[Paper](https://aclanthology.org/2022.naacl-demo.7/)] [[Code](https://github.com/RESIN-KAIROS/RESIN-11)] [[Demo](http://18.221.187.153:11000/kairos)] [[Video](https://screencast-o-matic.com/watch/c3nlhnVbeyg)]<br>
@@ -98,6 +98,8 @@ Selected Publications
 
 Experience
 ------
+  * **06/2025 - , [Amazon]()**
+    * Research Intern  
   * **06/2024 - 01/2025, [Salesforce AI Research](https://www.salesforceairesearch.com/about)**
     * Research Intern
     * Mentor: [Senthil Purushwalkam](https://www.senthilpurushwalkam.com/), [Congying Xia](https://www.linkedin.com/in/congying-xia-391b16b9/), [Ran Xu](https://www.linkedin.com/in/ran-x-a2765924/).
