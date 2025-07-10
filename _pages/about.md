@@ -16,6 +16,10 @@ My research focuses on building large multimodal models (LMMs) and LMM-brained a
  
 Selected Publications
 ------
+  - **Perception-Aware Policy Optimization for Multimodal Reasoning** [[Project Page](https://mikewangwzhl.github.io/PAPO/)]<br>
+    <ins>**Zhenhailong Wang**</ins>\*, Xuehang Guo\*, Sofia Stoica, Haiyang Xu, Hongru Wang, Hyeonjeong Ha, Xiusi Chen, Yangyi Chen, Ming Yan, Fei Huang, Heng Ji <br>
+    **Preprint**
+    
   - **DyMU: Dynamic Merging and Virtual Unmerging for Efficient VLMs** [[Project Page](https://mikewangwzhl.github.io/dymu/)]<br>
     <ins>**Zhenhailong Wang**</ins>\*, Senthil Purushwalkam\*, Caiming Xiong, Silvio Savarese, Heng Ji, Ran Xu <br>
     **under review**
@@ -99,7 +103,7 @@ Selected Publications
 Experience
 ------
   * **06/2025 - , [Amazon]()**
-    * Research Intern  
+    * Research Intern
   * **06/2024 - 01/2025, [Salesforce AI Research](https://www.salesforceairesearch.com/about)**
     * Research Intern
     * Mentor: [Senthil Purushwalkam](https://www.senthilpurushwalkam.com/), [Congying Xia](https://www.linkedin.com/in/congying-xia-391b16b9/), [Ran Xu](https://www.linkedin.com/in/ran-x-a2765924/).
