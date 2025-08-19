@@ -26,7 +26,7 @@ Selected Publications
 
   - **Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks** [[Paper](https://arxiv.org/abs/2501.11733)] [[Project Page](https://x-plug.github.io/MobileAgent/)]<br>
     <ins>**Zhenhailong Wang**</ins>, Haiyang Xu, Junyang Wang, Xi Zhang, Ming Yan, Ji Zhang, Fei Huang, Heng Ji<br>
-    **under review**
+    **arXiv:2501.11733**
 
   - **Infogent: An Agent-Based Framework for Web Information Aggregation** [[Paper](https://arxiv.org/pdf/2410.19054)] [[Project Page](https://gangiswag.github.io/infogent/)]<br>
     Revanth Gangi Reddy\*, Sagnik Mukherjee\*, Jeonghwan Kim\*, <ins>**Zhenhailong Wang**</ins>\*, Dilek Hakkani-Tur, Heng Ji<br>
