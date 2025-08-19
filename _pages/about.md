@@ -50,7 +50,7 @@ Selected Publications
 
   - **RCOT: Detecting and Rectifying Factual Inconsistency in Reasoning by Reversing Chain-of-Thought** [[Paper](https://arxiv.org/pdf/2305.11499.pdf)]<br>
   Tianci Xue, Ziqi Wang, <ins>**Zhenhailong Wang**</ins>, Chi Han, Pengfei Yu, Heng Ji <br>
-  **Arxiv preprint**
+  **arXiv:2305.11499**
 
   - **Zemi: Learning Zero-Shot Semi-Parametric Language Models from Multiple Tasks** [[Paper](https://aclanthology.org/2023.findings-acl.246/)] [[Code](https://github.com/MikeWangWZHL/Zemi)]<br>
   <ins>**Zhenhailong Wang**</ins>, Xiaoman Pan, Dian Yu, Dong Yu, Jianshu Chen, Heng Ji <br>
