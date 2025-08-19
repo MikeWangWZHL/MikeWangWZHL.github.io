@@ -102,8 +102,10 @@ Selected Publications
 
 Experience
 ------
-  * **06/2025 - , [Amazon]()**
-    * Research Intern
+  * **05/2025 - 08/2025, [Amazon Alexa AI](https://www.amazon.science/)**
+    * Applied Scientist Intern
+    * Mentor: Amin Fazel, Ritesh Sarkhel, Xiang Li, Xing Fan, Heng Ji
+    * Focus: Multimodal Instruction Following and Policy Internalization
   * **06/2024 - 01/2025, [Salesforce AI Research](https://www.salesforceairesearch.com/about)**
     * Research Intern
     * Mentor: [Senthil Purushwalkam](https://www.senthilpurushwalkam.com/), [Congying Xia](https://www.linkedin.com/in/congying-xia-391b16b9/), [Ran Xu](https://www.linkedin.com/in/ran-x-a2765924/).
