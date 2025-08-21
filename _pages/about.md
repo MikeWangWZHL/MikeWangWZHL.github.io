@@ -18,7 +18,7 @@ Selected Publications
 ------
   - **Perception-Aware Policy Optimization for Multimodal Reasoning** [[Project Page](https://mikewangwzhl.github.io/PAPO/)]<br>
     <ins>**Zhenhailong Wang**</ins>\*, Xuehang Guo\*, Sofia Stoica, Haiyang Xu, Hongru Wang, Hyeonjeong Ha, Xiusi Chen, Yangyi Chen, Ming Yan, Fei Huang, Heng Ji <br>
-    **Preprint**
+    **under review**
     
   - **DyMU: Dynamic Merging and Virtual Unmerging for Efficient VLMs** [[Project Page](https://mikewangwzhl.github.io/dymu/)]<br>
     <ins>**Zhenhailong Wang**</ins>\*, Senthil Purushwalkam\*, Caiming Xiong, Silvio Savarese, Heng Ji, Ran Xu <br>
@@ -26,7 +26,11 @@ Selected Publications
 
   - **Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks** [[Paper](https://arxiv.org/abs/2501.11733)] [[Project Page](https://x-plug.github.io/MobileAgent/)]<br>
     <ins>**Zhenhailong Wang**</ins>, Haiyang Xu, Junyang Wang, Xi Zhang, Ming Yan, Ji Zhang, Fei Huang, Heng Ji<br>
-    **arXiv:2501.11733**
+    **under review**
+
+  - **MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents** [[Paper](https://arxiv.org/abs/2503.01935)][[Code](https://github.com/MultiagentBench/MARBLE)]<br>
+    Kunlun Zhu, Hongyi Du, Zhaochen Hong, Xiaocheng Yang, Shuyi Guo, Zhe Wang, <ins>**Zhenhailong Wang**</ins>, Cheng Qian, Xiangru Tang, Heng Ji, Jiaxuan You<br>
+    **ACL 2025 Main**
 
   - **Infogent: An Agent-Based Framework for Web Information Aggregation** [[Paper](https://arxiv.org/pdf/2410.19054)] [[Project Page](https://gangiswag.github.io/infogent/)]<br>
     Revanth Gangi Reddy\*, Sagnik Mukherjee\*, Jeonghwan Kim\*, <ins>**Zhenhailong Wang**</ins>\*, Dilek Hakkani-Tur, Heng Ji<br>
