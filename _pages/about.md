@@ -22,7 +22,7 @@ Selected Publications
     
   - **DyMU: Dynamic Merging and Virtual Unmerging for Efficient VLMs** [[Project Page](https://mikewangwzhl.github.io/dymu/)]<br>
     <ins>**Zhenhailong Wang**</ins>\*, Senthil Purushwalkam\*, Caiming Xiong, Silvio Savarese, Heng Ji, Ran Xu <br>
-    **under review**
+    **NeurIPS 2025**
 
   - **Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks** [[Paper](https://arxiv.org/abs/2501.11733)] [[Project Page](https://x-plug.github.io/MobileAgent/)]<br>
     <ins>**Zhenhailong Wang**</ins>, Haiyang Xu, Junyang Wang, Xi Zhang, Ming Yan, Ji Zhang, Fei Huang, Heng Ji<br>
