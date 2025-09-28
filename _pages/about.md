@@ -26,7 +26,7 @@ Selected Publications
 
   - **Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks** [[Paper](https://arxiv.org/abs/2501.11733)] [[Project Page](https://x-plug.github.io/MobileAgent/)]<br>
     <ins>**Zhenhailong Wang**</ins>, Haiyang Xu, Junyang Wang, Xi Zhang, Ming Yan, Ji Zhang, Fei Huang, Heng Ji<br>
-    **under review**
+    **NeurIPS 2025 [SEA Workshop](https://sea-workshop.github.io/) (_Oral_)**
 
   - **MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents** [[Paper](https://arxiv.org/abs/2503.01935)][[Code](https://github.com/MultiagentBench/MARBLE)]<br>
     Kunlun Zhu, Hongyi Du, Zhaochen Hong, Xiaocheng Yang, Shuyi Guo, Zhe Wang, <ins>**Zhenhailong Wang**</ins>, Cheng Qian, Xiangru Tang, Heng Ji, Jiaxuan You<br>
@@ -38,7 +38,7 @@ Selected Publications
     
   - **Visually Descriptive Language Model for Vector Graphics Reasoning** [[Paper](https://arxiv.org/abs/2404.06479)] [[Project Page](https://mikewangwzhl.github.io/VDLM/)]<br>
     <ins>**Zhenhailong Wang**</ins>, Joy Hsu, Xingyao Wang, Kuan-Hao Huang, Manling Li, Jiajun Wu, Heng Ji<br>
-    **TMLR;** [CVPR25 Workshop MAR Spotlight](https://marworkshop.github.io/cvpr25/index.html)
+    **TMLR; CVPR 2025 [MAR Workshop](https://marworkshop.github.io/cvpr25/index.html) (_Spotlight_)**
     
   - **Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning** [[Paper](https://arxiv.org/abs/2312.10160)] [[Project Page](https://khuangaf.github.io/CHOCOLATE/)]<br>
     Kung-Hsiang Huang, Mingyang Zhou, Hou Pong Chan, Yi R. Fung, <ins>**Zhenhailong Wang**</ins>, Lingyu Zhang, Shih-Fu Chang, Heng Ji<br>
@@ -50,7 +50,7 @@ Selected Publications
   
   - **Paxion: Patching Action Knowledge in Video-Language Foundation Models** [[Paper](https://arxiv.org/abs/2305.10683)] [[Code](https://github.com/MikeWangWZHL/Paxion)]<br>
   <ins>**Zhenhailong Wang**</ins>, Ansel Blume, Sha Li, Genglin Liu, Jaemin Cho, Zineng Tang, Mohit Bansal, Heng Ji <br>
-  **NeurIPS 2023 _Spotlight_**
+  **NeurIPS 2023 (_Spotlight_)**
 
   - **RCOT: Detecting and Rectifying Factual Inconsistency in Reasoning by Reversing Chain-of-Thought** [[Paper](https://arxiv.org/pdf/2305.11499.pdf)]<br>
   Tianci Xue, Ziqi Wang, <ins>**Zhenhailong Wang**</ins>, Chi Han, Pengfei Yu, Heng Ji <br>
