@@ -16,6 +16,10 @@ My research focuses on building large multimodal models (LMMs) and LMM-brained a
  
 Selected Publications
 ------
+  - **Multimodal Policy Internalization for Conversational Agents** [[Project Page](https://mikewangwzhl.github.io/TriMPI/)]<br>
+    <ins>**Zhenhailong Wang**</ins>, Jiateng Liu, Amin Fazel, Ritesh Sarkhel, Xing Fan, Xiang Li, Chenlei Guo, Heng Ji, Ruhi Sarikaya<br>
+    **under review**
+    
   - **Perception-Aware Policy Optimization for Multimodal Reasoning** [[Project Page](https://mikewangwzhl.github.io/PAPO/)]<br>
     <ins>**Zhenhailong Wang**</ins>\*, Xuehang Guo\*, Sofia Stoica, Haiyang Xu, Hongru Wang, Hyeonjeong Ha, Xiusi Chen, Yangyi Chen, Ming Yan, Fei Huang, Heng Ji <br>
     **under review**
