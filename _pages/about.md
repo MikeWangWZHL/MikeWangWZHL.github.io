@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! I'm **Zhenhailong Wang** (王镇海龙). I am a third year Ph.D. in Computer Science at [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/) advised by Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html). Expected graduation in May 2026.
+Hi there! I'm **Zhenhailong Wang** (王镇海龙). I am a final year Ph.D. in Computer Science at [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/) advised by Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html). Expected graduation in May 2026.
 Before that, I got my M.S. in Computer Science and Civil Engineering from [UIUC](https://illinois.edu/) and B.S. from [Zhejiang University](https://www.zju.edu.cn/english/). I am a recipient of the 2025 Amazon AICE PhD Fellowship.
 
 My Research
