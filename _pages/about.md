@@ -18,11 +18,11 @@ Selected Publications
 ------
   - **Multimodal Policy Internalization for Conversational Agents** [[Project Page](https://mikewangwzhl.github.io/TriMPI/)]<br>
     <ins>**Zhenhailong Wang**</ins>, Jiateng Liu, Amin Fazel, Ritesh Sarkhel, Xing Fan, Xiang Li, Chenlei Guo, Heng Ji, Ruhi Sarikaya<br>
-    **under review**
+    **ICLR 2026**
     
   - **Perception-Aware Policy Optimization for Multimodal Reasoning** [[Project Page](https://mikewangwzhl.github.io/PAPO/)]<br>
     <ins>**Zhenhailong Wang**</ins>\*, Xuehang Guo\*, Sofia Stoica, Haiyang Xu, Hongru Wang, Hyeonjeong Ha, Xiusi Chen, Yangyi Chen, Ming Yan, Fei Huang, Heng Ji <br>
-    **under review**
+    **ICLR 2026**
     
   - **DyMU: Dynamic Merging and Virtual Unmerging for Efficient VLMs** [[Project Page](https://mikewangwzhl.github.io/dymu/)]<br>
     <ins>**Zhenhailong Wang**</ins>\*, Senthil Purushwalkam\*, Caiming Xiong, Silvio Savarese, Heng Ji, Ran Xu <br>
