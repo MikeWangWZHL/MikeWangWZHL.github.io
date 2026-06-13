@@ -1,0 +1,20 @@
+# Recent news, newest first. `date` is free text (e.g. "2026.01").
+# `text` supports HTML (links, <b>, etc.).
+
+- date: "2026.06"
+  text: 'Excited to share that I will join <b><a href="https://en.westlake.edu.cn/">Westlake University</a></b> as an <b>Assistant Professor</b> in 2027!'
+
+- date: "2026.01"
+  text: 'Two papers (<b>TriMPI</b> and <b>PAPO</b>) accepted to <b>ICLR 2026</b>.'
+
+- date: "2025.09"
+  text: '<b>DyMU</b> accepted to <b>NeurIPS 2025</b>. <b>Oral presentation</b> at NeurIPS 2025 SEA Workshop. Go try out <b>Mobile-Agent-E</b>!'
+
+- date: "2025.05"
+  text: 'Honored to receive the <b>2025 Amazon AICE PhD Fellowship</b>. Started a summer internship at <b>Amazon Alexa AI</b>.'
+
+- date: "2025.05"
+  text: '<b>VDLM</b> accepted to <b>TMLR</b>; spotlight at the CVPR 2025 MAR Workshop.'
+
+- date: "2025.01"
+  text: '<b>MultiAgentBench</b> accepted to <b>ACL 2025</b> (Main); <b>Infogent</b> to <b>NAACL 2025</b> (Findings).'

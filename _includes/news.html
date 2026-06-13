@@ -1,0 +1,12 @@
+{% if site.data.news %}
+<div class="news">
+  <ul class="news__list">
+    {% for item in site.data.news %}
+      <li class="news__item">
+        <span class="news__date">{{ item.date }}</span>
+        <div class="news__body"><p>{{ item.text }}</p></div>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}

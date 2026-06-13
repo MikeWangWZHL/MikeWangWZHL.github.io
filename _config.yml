@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhenhailong Wang"
 title_separator          : "-"
 name                     : &name "Zhenhailong Wang"
-description              : &description "Ph.D. in CS at UIUC"
+description              : &description "Incoming Assistant Professor at Westlake University; Ph.D. in CS from UIUC; research on large multimodal models (LMMs) and LMM-powered agents."
 url                      : https://MikeWangWZHL.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhenhailong Wang"
   avatar           : "zhenhailong_photo_new.jpeg"
-  bio              : "Ph.D. in CS at UIUC"
+  bio              : "Incoming Assistant Professor at Westlake University; Ph.D. in CS from UIUC"
   location         : "Champaign, Illinois"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=arzvOlgAAAAJ&hl=en"
-  email            : "wangz3@illinois.edu"
+  email            : "wangz@westlake.edu.cn"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -146,6 +146,9 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - preview
+  - build_preview.py
+  - serve.sh
 keep_files:
   - .git
   - .svn

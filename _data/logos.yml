@@ -1,0 +1,31 @@
+# Institution / company logos shown below the intro.
+# Files live in images/logos/. To swap one, drop a new file in and update `img`.
+# Order = display order.
+
+- name: "Zhejiang University"
+  url: "https://www.zju.edu.cn/english/"
+  img: "zju.svg"
+
+- name: "University of Illinois Urbana-Champaign"
+  url: "https://illinois.edu/"
+  img: "uiuc.svg"
+
+- name: "Westlake University"
+  url: "https://en.westlake.edu.cn/"
+  img: "westlake_university.svg"
+
+- name: "Tencent AI Lab"
+  url: "https://ai.tencent.com/ailab/en/"
+  img: "tencent.svg"
+
+- name: "Microsoft Research"
+  url: "https://www.microsoft.com/en-us/research/"
+  img: "microsoft.svg"
+
+- name: "Salesforce AI Research"
+  url: "https://www.salesforceairesearch.com/"
+  img: "salesforce.svg"
+
+- name: "Amazon"
+  url: "https://www.amazon.science/"
+  img: "amazon.svg"

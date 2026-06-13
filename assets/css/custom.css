@@ -1,0 +1,406 @@
+/* ==========================================================================
+   Custom homepage redesign
+   Style inspired by limanling.github.io (clean single-column academic page)
+   + institution logo strip inspired by xiuyuliang.cn
+   This file is loaded AFTER main.css and intentionally overrides it.
+   All theme colors are exposed as CSS variables below for easy tweaking.
+   ========================================================================== */
+
+:root {
+  /* --- Color system (UIUC-inspired; change here to re-theme everything) --- */
+  --accent:        #FF5F05; /* Illinois orange — section accents, photo border */
+  --ink:           #13294B; /* Illinois blue  — headings, nav, name */
+  --link:          #1668b5; /* link blue */
+  --link-hover:    #0d4377;
+  --text:          #2b2b2b;
+  --text-soft:     #5c6670;
+  --bg:            #ffffff;
+  --bg-soft:       #f6f7f9;
+  --bg-card:       #ffffff;
+  --border:        #e7e9ee;
+
+  /* --- Typography --- */
+  --font-sans: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  --font-head: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+
+  /* --- Layout --- */
+  --maxw: 860px;
+}
+
+/* ==========================================================================
+   Base
+   ========================================================================== */
+
+html { font-size: 17px; }
+
+body {
+  font-family: var(--font-sans);
+  color: var(--text);
+  background: var(--bg);
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+a, a:visited { color: var(--link); text-decoration: none; }
+a:hover, a:focus { color: var(--link-hover); text-decoration: underline; }
+
+/* Kill the theme's float-grid container constraints on the home page ONLY
+   (scoped with #main.home-main so other pages keep the theme's two-column layout) */
+#main.home-main { max-width: none; padding: 0; margin: 0; width: 100%; float: none; }
+
+/* ==========================================================================
+   Top navigation (masthead)
+   ========================================================================== */
+
+.masthead {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  border-bottom: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.9);
+  backdrop-filter: saturate(180%) blur(10px);
+  -webkit-backdrop-filter: saturate(180%) blur(10px);
+  animation: none;
+}
+
+.masthead__inner-wrap {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 0.6em 1.25em;
+}
+
+.greedy-nav { background: transparent; min-width: 0; }
+
+/* Force a flex row (theme default is display:table) so name sits left, links right */
+.greedy-nav .visible-links {
+  display: flex !important;
+  align-items: center;
+  flex: 1 1 auto;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+.greedy-nav .visible-links li { display: inline-flex !important; align-items: center; }
+.greedy-nav a { margin: 0 0.6rem; padding: 0.4rem 0; }
+
+.greedy-nav a {
+  font-family: var(--font-head);
+  font-weight: 700;
+  font-size: 0.82rem;
+  letter-spacing: 0.02em;
+  color: var(--text-soft);
+}
+.greedy-nav a:before { background: var(--accent); height: 3px; }
+.greedy-nav a:hover { color: var(--ink); text-decoration: none; }
+
+/* Site title (the user's name) on the left */
+.masthead__menu-item--lg a,
+.greedy-nav .site-title {
+  color: var(--ink) !important;
+  font-weight: 900 !important;
+  font-size: 1.05rem !important;
+  letter-spacing: -0.01em;
+}
+.greedy-nav .visible-links .masthead__menu-item--lg { margin-right: auto; }
+
+/* Align the nav with the content column: the per-link 0.6rem side margins
+   inset the first/last items, making the bar look shifted right. Zero the
+   outer margins so the name (left) and last link (right) sit flush with
+   .home-inner's padding edges. */
+.greedy-nav .visible-links > li:first-child > a { margin-left: 0; }
+.greedy-nav .visible-links > li:last-child > a { margin-right: 0; }
+
+.greedy-nav .hidden-links { box-shadow: 0 2px 14px rgba(0,0,0,0.12); border-radius: 6px; }
+.greedy-nav .hidden-links a { color: var(--text-soft); }
+
+/* ==========================================================================
+   Home layout — single centered column
+   ========================================================================== */
+
+.home-main { background: var(--bg); }
+
+.home-inner {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 2.6em 1.25em 4em;
+}
+
+.home-content { font-size: 1rem; }
+.home-content p { margin: 0 0 1.1em; }
+
+/* ==========================================================================
+   Profile header card (limanling-style)
+   ========================================================================== */
+
+.profile {
+  display: flex;
+  gap: 2em;
+  align-items: center;
+  margin-bottom: 1.6em;
+}
+
+.profile__photo {
+  flex: 0 0 auto;
+  width: 200px;
+  height: 240px;
+  border-radius: 14px;
+  object-fit: cover;
+  border: 3px solid var(--accent);
+  box-shadow: 0 8px 26px rgba(19, 41, 75, 0.14);
+}
+
+.profile__body { flex: 1 1 auto; min-width: 0; }
+
+.profile__name {
+  font-family: var(--font-head);
+  font-weight: 900;
+  font-size: 2.1rem;
+  line-height: 1.15;
+  color: var(--ink);
+  margin: 0 0 0.15em;
+  letter-spacing: -0.015em;
+}
+.profile__name .cn { font-weight: 700; font-size: 1.4rem; color: var(--text-soft); margin-left: 0.35em; }
+
+.profile__title {
+  font-size: 1.02rem;
+  color: var(--text);
+  margin: 0.1em 0 0.5em;
+}
+.profile__title a { font-weight: 700; }
+
+.profile__affil {
+  font-size: 0.92rem;
+  color: var(--text-soft);
+  margin: 0.15em 0;
+}
+
+/* Social icon row */
+.profile__social {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55em;
+  padding: 0;
+  margin: 0.9em 0 0;
+}
+.profile__social li { margin: 0; }
+.profile__social a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  background: var(--bg-soft);
+  color: var(--ink);
+  border: 1px solid var(--border);
+  font-size: 1.02rem;
+  transition: all 0.18s ease;
+}
+.profile__social a:hover {
+  background: var(--ink);
+  color: #fff;
+  border-color: var(--ink);
+  text-decoration: none;
+  transform: translateY(-2px);
+}
+
+/* ==========================================================================
+   Institution / company logo strip (xiuyuliang-style)
+   ========================================================================== */
+
+.logos {
+  margin: 0.4em 0 2.2em;
+  padding: 1.2em 0 0.4em;
+  border-top: 1px solid var(--border);
+}
+.logos__label {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--text-soft);
+  margin: 0 0 0.9em;
+  font-weight: 700;
+}
+.logos__row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.6em 2.2em;
+}
+.logos__row a { display: inline-flex; align-items: center; }
+/* Original brand colors; ~40px base height, then per-logo tweaks below so
+   square seals and wide wordmarks read at a similar optical size. */
+.logos__row img {
+  height: 40px;
+  width: auto;
+  object-fit: contain;
+  transition: transform 0.2s ease;
+}
+/* Matched by filename ($= = "ends with"), works for both the live and preview src paths */
+.logos__row img[src$="zju.svg"]       { height: 50px; }  /* square seal — needs more height */
+.logos__row img[src$="uiuc.svg"]      { height: 30px; }
+.logos__row img[src$="tencent.svg"]   { height: 25px; }
+.logos__row img[src$="microsoft.svg"] { height: 32px; }
+.logos__row img[src$="amazon.svg"] { height: 30px; }
+.logos__row a:hover img { transform: translateY(-2px); }
+
+/* ==========================================================================
+   Section headings  (markdown "Title\n------" -> <h2>)
+   ========================================================================== */
+
+.home-content h1,
+.home-content h2,
+.home-content h3 {
+  font-family: var(--font-head);
+  color: var(--ink);
+  border-bottom: 0;
+  line-height: 1.25;
+}
+
+.home-content h2 {
+  font-size: 1.5rem;
+  font-weight: 900;
+  margin: 2.2em 0 0.9em;
+  padding-bottom: 0.35em;
+  position: relative;
+}
+.home-content h2:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 46px;
+  height: 4px;
+  border-radius: 3px;
+  background: var(--accent);
+}
+
+.home-content h3 { font-size: 1.18rem; font-weight: 700; margin: 1.6em 0 0.6em; }
+
+/* ==========================================================================
+   News box (scrollable feed, limanling-style)
+   ========================================================================== */
+
+.news {
+  max-height: 280px;
+  overflow-y: auto;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--bg-soft);
+  padding: 0.4em 1.25em;
+  margin: 0.5em 0 0.5em;
+}
+.news::-webkit-scrollbar { width: 9px; }
+.news::-webkit-scrollbar-thumb { background: #cfd4dc; border-radius: 6px; }
+.news::-webkit-scrollbar-track { background: transparent; }
+
+.news__list { list-style: none; margin: 0; padding: 0; }
+.news__item {
+  display: flex;
+  gap: 0.9em;
+  padding: 0.7em 0;
+  border-bottom: 1px dashed var(--border);
+  font-size: 0.92rem;
+}
+.news__item:last-child { border-bottom: 0; }
+.news__date {
+  flex: 0 0 84px;
+  color: var(--accent);
+  font-weight: 700;
+  font-size: 0.82rem;
+  white-space: nowrap;
+  padding-top: 0.05em;
+}
+.news__body { flex: 1 1 auto; color: var(--text); }
+.news__body p { margin: 0; }
+
+/* ==========================================================================
+   Publications list
+   ========================================================================== */
+
+.home-content ul { padding-left: 1.1em; }
+
+#publications + ul,
+.publication-list {
+  list-style: none;
+  padding-left: 0;
+}
+#publications + ul > li,
+.publication-list > li {
+  position: relative;
+  padding: 0.85em 0 0.85em 1.1em;
+  border-bottom: 1px solid var(--border);
+  margin: 0;
+}
+#publications + ul > li:before,
+.publication-list > li:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 1.35em;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--accent);
+}
+
+/* link chips like [Paper] [Code] [Project Page] */
+.home-content a[href*="arxiv"],
+.home-content a[href*="github"],
+.home-content a[href*="aclanthology"],
+.home-content a[href*=".io/"] { font-weight: 600; }
+
+/* ==========================================================================
+   Experience / Education / Service lists
+   ========================================================================== */
+
+.home-content li { margin: 0.3em 0; }
+.home-content ul ul { margin-top: 0.25em; }
+
+/* ==========================================================================
+   Footer
+   ========================================================================== */
+
+.page__footer {
+  background: var(--bg-soft);
+  border-top: 1px solid var(--border);
+  color: var(--text-soft);
+  margin-top: 0;
+}
+.page__footer footer {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 1.6em 1.25em;
+}
+.page__footer a { color: var(--text-soft); }
+
+/* ==========================================================================
+   Responsive
+   ========================================================================== */
+
+@media (max-width: 680px) {
+  html { font-size: 16px; }
+
+  /* No hamburger on this static nav, so let it stack: name on its own line,
+     the rest of the links wrap centered beneath it. */
+  .greedy-nav .visible-links { justify-content: center; }
+  .greedy-nav .visible-links .masthead__menu-item--lg {
+    flex-basis: 100%;
+    justify-content: center;
+    margin: 0 0 0.2em;
+  }
+
+  .profile {
+    flex-direction: column;
+    text-align: center;
+    gap: 1.1em;
+  }
+  .profile__photo { width: 170px; height: 200px; }
+  .profile__social { justify-content: center; }
+  .profile__name { font-size: 1.8rem; }
+  .profile__name .cn { display: block; margin: 0.2em 0 0; }
+  .logos__row { justify-content: center; gap: 1.3em 1.6em; }
+  .home-inner { padding: 1.8em 1.1em 3em; }
+}

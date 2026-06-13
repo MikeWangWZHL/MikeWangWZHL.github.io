@@ -1,10 +1,18 @@
 {% include base_path %}
 
+{%- comment -%}
+  Static masthead. The theme's "greedy navigation" JS (in main.min.js) hooks
+  #site-nav and relocates menu items based on measured widths; with this page's
+  custom flex layout it mis-measures and hides every link. This nav is short and
+  fixed, so we intentionally drop id="site-nav" (plus the toggle button and the
+  hidden-links dropdown) so the script leaves it alone. Styling still keys off
+  .greedy-nav in custom.css. Links wrap on small screens via flex-wrap.
+{%- endcomment -%}
+
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
+      <nav class="greedy-nav" aria-label="Site navigation">
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
           {% for link in site.data.navigation.main %}
@@ -16,7 +24,6 @@
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
-        <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
   </div>

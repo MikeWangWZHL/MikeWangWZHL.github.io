@@ -1,0 +1,42 @@
+{% include base_path %}
+{% assign author = site.author %}
+
+<header class="profile">
+
+  <img class="profile__photo"
+       src="{{ author.avatar | prepend: '/images/' | prepend: base_path }}"
+       alt="{{ author.name }}">
+
+  <div class="profile__body">
+    <h1 class="profile__name">Zhenhailong Wang <span class="cn">王镇海龙</span></h1>
+
+    <p class="profile__title">
+      Incoming Assistant Professor (2027),
+      <a href="https://en.westlake.edu.cn/">Westlake University</a>
+    </p>
+
+    <p class="profile__affil">Ph.D. in Computer Science, <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a> </p>
+
+    <p class="profile__affil">wangz [at] westlake [dot] edu [dot] cn</p>
+
+    <!-- <p class="profile__affil">2025 Amazon AICE PhD Fellow</p> -->
+
+    <ul class="profile__social">
+      {% if author.email %}
+        <li><a href="mailto:{{ author.email }}" title="Email" aria-label="Email"><i class="fas fa-envelope"></i></a></li>
+      {% endif %}
+      {% if author.googlescholar %}
+        <li><a href="{{ author.googlescholar }}" title="Google Scholar" aria-label="Google Scholar"><i class="ai ai-google-scholar"></i></a></li>
+      {% endif %}
+      {% if author.github %}
+        <li><a href="https://github.com/{{ author.github }}" title="GitHub" aria-label="GitHub"><i class="fab fa-github"></i></a></li>
+      {% endif %}
+      {% if author.linkedin %}
+        <li><a href="https://www.{{ author.linkedin }}" title="LinkedIn" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a></li>
+      {% endif %}
+      {% if author.twitter %}
+        <li><a href="https://twitter.com/{{ author.twitter }}" title="Twitter / X" aria-label="Twitter / X"><i class="fab fa-twitter"></i></a></li>
+      {% endif %}
+    </ul>
+  </div>
+</header>

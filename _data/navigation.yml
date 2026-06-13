@@ -1,25 +1,12 @@
-# main links links
+# main navigation links (rendered in the top masthead)
 main:
-#   - title: "Publications"
-#     url: /publications/
-
-#   - title: "Talks"
-#     url: /talks/    
-
-#   - title: "Teaching"
-#     url: /teaching/    
-    
-# - title: "Portfolio"
-#   url: /portfolio/
-
-    - title: "Gallery"
-      url: /gallery/
-        
-#   - title: "Blog Posts"
-#     url: /year-archive/
-    
-#   - title: "CV"
-#     url: /cv/
-    
-  # - title: "Gallery"
-  #   url: /markdown/
+  - title: "News"
+    url: /#news
+  - title: "Publications"
+    url: /#publications
+  - title: "Experience"
+    url: /#experience
+  - title: "Education"
+    url: /#education
+  - title: "Scholar"
+    url: https://scholar.google.com/citations?user=arzvOlgAAAAJ&hl=en

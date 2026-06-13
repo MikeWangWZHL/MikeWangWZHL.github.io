@@ -1,0 +1,14 @@
+{% include base_path %}
+
+{% if site.data.logos %}
+<div class="logos">
+  <p class="logos__label">Affiliations &amp; Experience</p>
+  <div class="logos__row">
+    {% for logo in site.data.logos %}
+      <a href="{{ logo.url }}" target="_blank" rel="noopener" title="{{ logo.name }}">
+        <img src="{{ logo.img | prepend: '/images/logos/' | prepend: base_path }}" alt="{{ logo.name }}">
+      </a>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}

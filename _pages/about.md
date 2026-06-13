@@ -2,20 +2,28 @@
 permalink: /
 title: ""
 excerpt: "About me"
-author_profile: true
+layout: home
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hi there! I'm **Zhenhailong Wang** (王镇海龙). I am a final year Ph.D. in Computer Science at [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/) advised by Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html). Expected graduation in May 2026.
-Before that, I got my M.S. in Computer Science and Civil Engineering from [UIUC](https://illinois.edu/) and B.S. from [Zhejiang University](https://www.zju.edu.cn/english/). I am a recipient of the 2025 Amazon AICE PhD Fellowship.
 
-My Research
-------
-My research focuses on building large multimodal models (LMMs) and LMM-brained agents with human-like perception and reasoning. I aim to equip these models with the capability for system-2 reasoning, as well as efficient decision-making in dynamic and complex environments. For my most recent publications, please check my [Google Scholar](https://scholar.google.com/citations?user=arzvOlgAAAAJ&hl=en).
- 
-Selected Publications
-------
+I obtained my Ph.D. in Computer Science from the [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/) in May 2026, advised by Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html). In 2027, I will join [Westlake University](https://en.westlake.edu.cn/) as an Assistant Professor. I previously earned my M.S. in Computer Science and Civil Engineering at UIUC, and my B.S. at [Zhejiang University](https://www.zju.edu.cn/english/).
+
+My research focuses on building **large multimodal models (LMMs)** and developing **multimodal agents** with human-like perception and reasoning. I am a recipient of the 2025 Amazon AICE PhD Fellowship and have published 30+ papers at top-tier venues including NeurIPS, ICLR, ACL, NAACL, EMNLP, and AAAI—among them a *Spotlight* at NeurIPS 2023 and an *Oral* at the NeurIPS 2025 SEA Workshop. Seven of these papers have each accumulated over 100 citations.
+My representative work includes [VidIL](https://github.com/MikeWangWZHL/VidIL), [Paxion](https://github.com/MikeWangWZHL/Paxion), [Solo Performance Prompting](https://github.com/MikeWangWZHL/Solo-Performance-Prompting), [Mobile-Agent-E](https://x-plug.github.io/MobileAgent/), and [PAPO](https://mikewangwzhl.github.io/PAPO/). I have previously interned at Tencent, Microsoft, Salesforce, and Amazon. 
+
+For my most recent work, please check out my [Google Scholar](https://scholar.google.com/citations?user=arzvOlgAAAAJ&hl=en).
+
+{% include logos.html %}
+
+## News {#news}
+
+{% include news.html %}
+
+## Selected Publications {#publications}
+
   - **Multimodal Policy Internalization for Conversational Agents** [[Project Page](https://mikewangwzhl.github.io/TriMPI/)]<br>
     <ins>**Zhenhailong Wang**</ins>, Jiateng Liu, Amin Fazel, Ritesh Sarkhel, Xing Fan, Xiang Li, Chenlei Guo, Heng Ji, Ruhi Sarikaya<br>
     **ICLR 2026**
@@ -76,11 +84,6 @@ Selected Publications
   Revanth Gangi Reddy, Sai Chetan, <ins>**Zhenhailong Wang**</ins>, Yi R. Fung, Kathryn Conger, Ahmed Elsayed, Martha Palmer, Preslav Nakov, Eduard Hovy, Kevin Small, Heng Ji<br>
   **EMNLP 2022 main**
 
-  <!-- - **Rethinking Task Sampling for Few-shot Vision-Language Transfer Learning** [[PDF](https://aclanthology.org/2022.mmmpie-1.2.pdf)] [[Code](https://github.com/MikeWangWZHL/Multitask-Finetuning_CLIP)]<br>
-  <ins>**Zhenhailong Wang**</ins>, Hang Yu, Manling Li, Han Zhao, Heng Ji<br>
-  **COLING 2022 (MMMPIE Workshop)**
-  -->
-  
   - **Open Vocabulary Electroencephalography-To-Text Decoding and Zero-shot Sentiment Classification** [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/20472/20231)] [[Code](https://github.com/MikeWangWZHL/EEG-To-Text)]<br> 
   <ins>**Zhenhailong Wang**</ins>, Heng Ji<br>
   **AAAI 2022**
@@ -89,81 +92,41 @@ Selected Publications
   Manling Li, Sha Li, <ins>**Zhenhailong Wang**</ins>, Lifu Huang, Kyunghyun Cho, Heng Ji, Jiawei Han and Clare Voss<br>
   **EMNLP 2021 main**
 
-<!--
-  - **RESIN-11: Schema-guided Event Prediction for 11 Newsworthy Scenarios** [[Paper](https://aclanthology.org/2022.naacl-demo.7/)] [[Code](https://github.com/RESIN-KAIROS/RESIN-11)] [[Demo](http://18.221.187.153:11000/kairos)] [[Video](https://screencast-o-matic.com/watch/c3nlhnVbeyg)]<br>
-  Xinya Du, Zixuan Zhang, Sha Li, and 27 others including <ins>**Zhenhailong Wang**</ins><br> 
-  **NAACL 2022 Demo**
--->
-<!--   Pengfei Yu, Hongwei Wang, Tuan Manh Lai, Xudong Lin, Ziqi Wang, Iris Liu, Ben Zhou, Haoyang Wen, Manling Li, Darryl Hannan, Qi Zeng, Qing Lyu, Charles Yu, Carl Edwards, Xiaomeng Jin, Yizhu Jiao, Ghazaleh Kazeminejad, Rotem Dror, <ins>**Zhenhailong Wang**</ins>, Chris Callison-Burch, Mohit Bansal, Carl Vondrick, Jiawei Han, Dan Roth, Shih-Fu Chang, Martha Palmer, Heng Ji<br> -->
 
-<!--
-  - **RESIN: A Dockerlized Schema-Guided Cross-document Cross-lingual Cross-media Information Extraction and Event Tracking System** [[Paper](https://aclanthology.org/2021.naacl-demos.16/)] [[Code](https://github.com/RESIN-KAIROS/RESIN-pipeline-public)] [[Video](http://blender.cs.illinois.edu/software/resin/resin.mp4)]<br>
-  Haoyang Wen, Ying Lin, Tuan Lai, Xiaoman Pan, Sha Li, and 21 others including <ins>**Zhenhailong Wang**</ins><br>
-  **NAACL 2021 Demo**
+## Education {#education}
 
-<!--
-  - **GAIA at SM-KBP 2020 - A Dockerized Multi-media Multi-lingual Knowledge Extraction, Clustering, Temporal Tracking and Hypothesis Generation System** [<a href='https://dsr.cise.ufl.edu/wp-content/uploads/2021/02/gaia_smkbp_2020.pdf'>Paper</a>] [<a href='https://tac.nist.gov/2020/KBP/SM-KBP/index.html'>Project</a>] <br>
-  Manling Li, Ying Lin, Tuan Manh Lai, Xiaoman Pan, Haoyang Wen, Sha Li, <ins>**Zhenhailong Wang**</ins>, and 34 others<br>
-  **TAC-KBP 2020 Demo**
--->
-
-
-Experience
-------
-  * **05/2025 - 08/2025, [Amazon Alexa AI](https://www.amazon.science/)**
-    * Applied Scientist Intern
-    * Mentor: Amin Fazel, Ritesh Sarkhel, Xiang Li, Xing Fan, Heng Ji
-    * Focus: Multimodal Instruction Following and Policy Internalization
-  * **06/2024 - 01/2025, [Salesforce AI Research](https://www.salesforceairesearch.com/about)**
-    * Research Intern
-    * Mentor: [Senthil Purushwalkam](https://www.senthilpurushwalkam.com/), [Congying Xia](https://www.linkedin.com/in/congying-xia-391b16b9/), [Ran Xu](https://www.linkedin.com/in/ran-x-a2765924/).
-    * Focus: Efficient Variable-length Visual Encoding
-  * **05/2023 - 08/2023, [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)**
-    * Research Intern
-    * Mentor: [Tao Ge](https://www.microsoft.com/en-us/research/people/tage/), [Shaoguang Mao](https://www.microsoft.com/en-us/research/people/shamao/), [Wenshan Wu](https://www.linkedin.com/in/wenshanwu/?locale=en_US).
-    * Focus: Large Language Models, Multi-persona Collaboration
-  * **05/2022 - 08/2022, [Tencent AI Lab](https://ai.tencent.com/ailab/en/about/)**
-    * Research Intern
-    * Mentor: [Xiaoman Pan](https://panx27.github.io/homepage/), [Dian Yu](https://sites.google.com/site/yudiandoris/), [Jianshu Chen](https://chenjianshu.github.io/).
-    * Focus: Retrieval Augmented Generation
-  * **01/2022 - 05/2022, [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/)**
-    * Collaboration on project [VidIL](https://arxiv.org/abs/2205.10747)
-    * Working with [Ruochen Xu](https://www.microsoft.com/en-us/research/people/ruox/), [Luowei Zhou](https://www.microsoft.com/en-us/research/people/luozhou/), [Shuohang Wang](https://www.microsoft.com/en-us/research/people/shuowa/), [Ziyi Yang](https://www.microsoft.com/en-us/research/people/ziyiyang/), [Chenguang Zhu](https://www.microsoft.com/en-us/research/people/chezhu/).
-    * Focus: Video-Language Understanding
-  * **07/2020 - Present, [BLENDER Lab](http://blender.cs.illinois.edu/index.html)**
-    * Graduate Research Assistant
-    * Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
-    * Focus: Large Multimodal Models and Multimodal Agents
-  * **09/2019 - 08/2020, [RAAMAC Lab](https://raamac.cee.illinois.edu/)**
-    * Undergraduate Research Assistant
-    * Advisor: Prof. [Mani Golparvar-Fard](https://cs.illinois.edu/about/people/faculty/mgolpar)
-    * Focus: Robotics
-
-
-Education
-------
   * **University of Illinois at Urbana-Champaign**
-    * Ph.D. in Computer Science, 2023 - Present; Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
+    * Ph.D. in Computer Science, 2023 - 2026; Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
     * M.S. in Computer Science, 2021 - 2023; Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
     * M.S. in Civil Engineering, 2019 - 2021; Advisor: Prof. [Mani Golparvar-Fard](https://cs.illinois.edu/about/people/faculty/mgolpar)
-    * GPA: 3.98/4.0
+
   * **Zhejiang University**
     * B.S. in Civil Engineering, 2016 - 2020
-    * GPA: 3.92/4.0
-    * Zhejiang Province Government Scholarship **(<2%)**
-    * Acadamic Scholarship **(<8%)**
 
+## Experience {#experience}
 
-Invited Talk, Service
-------
+  * **05/2025 - 08/2025, [Amazon Alexa AI](https://www.amazon.science/)**
+    * Applied Scientist Intern
+  * **06/2024 - 01/2025, [Salesforce AI Research](https://www.salesforceairesearch.com/about)**
+    * Research Intern
+  * **05/2023 - 08/2023, [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)**
+    * Research Intern
+  * **05/2022 - 08/2022, [Tencent AI Lab](https://ai.tencent.com/ailab/en/about/)**
+    * Research Intern
+  * **07/2020 - 06/2026, [BLENDER Lab](http://blender.cs.illinois.edu/index.html)**
+    * Graduate Research Assistant
+  * **09/2019 - 08/2020, [RAAMAC Lab](https://raamac.cee.illinois.edu/)**
+    * Undergraduate Research Assistant
+
+<!-- 
+## Invited Talks & Service {#service}
+
 * 12/6/2022: Microsoft Research NLP PhD Student Invited Talk (Knowledge and Language Team)
 * 2/16/2023: [AI-Time](http://www.aitime.cn/AboutUs) Neurips 2022 Event
 * 3/9/2024: [LLM and AI Agent Reading Group](https://swarma.org/?p=48803)
 * Fall 2024: Teaching Assistant for [CS 546: Advanced Topics in Natural Language Processing](https://blender.cs.illinois.edu/course/fall24/anlp.html), with a guest lecture on LLM-based Agents.
 * 7/20/2025: [Talk at Ploutos AI](https://world.ploutos.dev/stream/elegant-roadrunner)
 
+## Miscellaneous {#misc}
 
-Miscellaneous
-------
-  * **A [short film](https://www.youtube.com/watch?v=-dyb56lQ-yA&t=2s) written and directed by me, ft.[ITP](https://www.zju.edu.cn/english/2019/1101/c19573a1735987/page.htm) (dialogue in Chinese :)**
-
+  * **A [short film](https://www.youtube.com/watch?v=-dyb56lQ-yA&t=2s) written and directed by me, ft. [ITP](https://www.zju.edu.cn/english/2019/1101/c19573a1735987/page.htm) (dialogue in Chinese :)** -->
