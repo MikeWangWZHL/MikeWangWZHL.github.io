@@ -1,6 +1,9 @@
 # Recent news, newest first. `date` is free text (e.g. "2026.01").
 # `text` supports HTML (links, <b>, etc.).
 
+- date: "2026.07"
+  text: '<b>Three papers</b> accepted to <b>COLM 2026</b>.'
+
 - date: "2026.06"
   text: 'Excited to share that I will join <b><a href="https://en.westlake.edu.cn/">Westlake University</a></b> as an <b>Assistant Professor</b> in 2027!'
 
