@@ -131,16 +131,11 @@
   margin: 8px 0 0;
   color: var(--lab-ink);
   font-family: var(--font-head);
-  font-size: clamp(1.55rem, 2.4vw, 2rem);
+  font-size: clamp(1.2rem, 4.8vw, 1.9rem);
   font-weight: 700;
   letter-spacing: -0.025em;
   line-height: 1.12;
-}
-
-@media (min-width: 621px) {
-  .recruit-card h2 {
-    white-space: nowrap;
-  }
+  white-space: nowrap;
 }
 
 .recruit-card__header > p {
@@ -361,7 +356,7 @@
 }
 
 .lab-section--overview {
-  padding: 40px 0 64px;
+  padding: 40px 0 36px;
 }
 
 .lab-section--overview .agent-schema {
@@ -369,7 +364,7 @@
 }
 
 .lab-section--details {
-  padding: 64px 0 100px;
+  padding: 20px 0 100px;
 }
 
 .lab-content {
@@ -384,7 +379,7 @@
   margin: 14px 0 18px;
   color: var(--lab-ink);
   font-family: var(--font-head);
-  font-size: clamp(1.8rem, 3.4vw, 2.7rem);
+  font-size: clamp(1.65rem, 3vw, 2.35rem);
   font-weight: 700;
   letter-spacing: -0.025em;
   line-height: 1.12;
@@ -943,11 +938,11 @@
   }
 
   .lab-section--overview {
-    padding: 32px 0 48px;
+    padding: 32px 0 28px;
   }
 
   .lab-section--details {
-    padding: 48px 0 76px;
+    padding: 16px 0 76px;
   }
 
   .agent-schema {
