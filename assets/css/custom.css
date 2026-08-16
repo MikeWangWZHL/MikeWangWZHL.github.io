@@ -7,17 +7,17 @@
    ========================================================================== */
 
 :root {
-  /* --- Color system (UIUC-inspired; change here to re-theme everything) --- */
-  --accent:        #FF5F05; /* Illinois orange — section accents, photo border */
-  --ink:           #13294B; /* Illinois blue  — headings, nav, name */
-  --link:          #1668b5; /* link blue */
-  --link-hover:    #0d4377;
-  --text:          #2b2b2b;
-  --text-soft:     #5c6670;
-  --bg:            #ffffff;
-  --bg-soft:       #f6f7f9;
-  --bg-card:       #ffffff;
-  --border:        #e7e9ee;
+  /* --- Shared blue Morandi system, with warm clay for contrast --- */
+  --accent:        #a87f6d;
+  --ink:           #354a59;
+  --link:          #56798f;
+  --link-hover:    #3f6075;
+  --text:          #3e4b52;
+  --text-soft:     #6d7981;
+  --bg:            #eef2f4;
+  --bg-soft:       #e1e8ec;
+  --bg-card:       #f8fafb;
+  --border:        #d2dbe0;
 
   /* --- Typography --- */
   --font-sans: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
@@ -58,7 +58,7 @@ a:hover, a:focus { color: var(--link-hover); text-decoration: underline; }
   top: 0;
   z-index: 40;
   border-bottom: 1px solid var(--border);
-  background: rgba(255, 255, 255, 0.9);
+  background: rgba(238, 242, 244, 0.92);
   backdrop-filter: saturate(180%) blur(10px);
   -webkit-backdrop-filter: saturate(180%) blur(10px);
   animation: none;
@@ -129,6 +129,97 @@ a:hover, a:focus { color: var(--link-hover); text-decoration: underline; }
 .home-content p { margin: 0 0 1.1em; }
 
 /* ==========================================================================
+   Active recruitment banner
+   ========================================================================== */
+
+.home-recruit {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 1.5em;
+  align-items: center;
+  margin: 0 0 2em;
+  padding: 1.15em 1.25em;
+  overflow: hidden;
+  border: 1px solid #bfd0d9;
+  border-left: 4px solid var(--accent);
+  border-radius: 14px;
+  background: linear-gradient(135deg, var(--bg-card) 0%, #dfe8ed 100%);
+  box-shadow: 0 8px 24px rgba(53, 74, 89, 0.1);
+}
+
+.home-recruit__copy {
+  min-width: 0;
+}
+
+.home-recruit__status {
+  display: flex;
+  align-items: center;
+  gap: 0.55em;
+  margin-bottom: 0.32em;
+  color: var(--link);
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.home-recruit__status::before {
+  width: 0.62em;
+  height: 0.62em;
+  border-radius: 50%;
+  background: var(--accent);
+  box-shadow: 0 0 0 4px rgba(168, 127, 109, 0.14);
+  content: "";
+}
+
+.home-recruit__copy strong {
+  display: block;
+  color: var(--ink);
+  font-family: var(--font-head);
+  font-size: 1.1rem;
+  font-weight: 900;
+  line-height: 1.3;
+}
+
+.home-recruit__copy p {
+  margin: 0.3em 0 0;
+  color: var(--text-soft);
+  font-size: 0.82rem;
+  line-height: 1.5;
+}
+
+.home-recruit .home-recruit__link,
+.home-recruit .home-recruit__link:visited {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45em;
+  min-height: 44px;
+  padding: 0.72em 1em;
+  border-radius: 9px;
+  background: var(--link);
+  color: #fff;
+  font-size: 0.76rem;
+  font-weight: 800;
+  line-height: 1.25;
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.home-recruit .home-recruit__link:hover,
+.home-recruit .home-recruit__link:focus {
+  background: var(--ink);
+  color: #fff;
+  text-decoration: none;
+}
+
+.home-recruit .home-recruit__link:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 3px;
+}
+
+/* ==========================================================================
    Profile header card (limanling-style)
    ========================================================================== */
 
@@ -146,7 +237,7 @@ a:hover, a:focus { color: var(--link-hover); text-decoration: underline; }
   border-radius: 14px;
   object-fit: cover;
   border: 3px solid var(--accent);
-  box-shadow: 0 8px 26px rgba(19, 41, 75, 0.14);
+  box-shadow: 0 8px 26px rgba(53, 74, 89, 0.14);
 }
 
 .profile__body { flex: 1 1 auto; min-width: 0; }
@@ -403,4 +494,12 @@ a:hover, a:focus { color: var(--link-hover); text-decoration: underline; }
   .profile__name .cn { display: block; margin: 0.2em 0 0; }
   .logos__row { justify-content: center; gap: 1.3em 1.6em; }
   .home-inner { padding: 1.8em 1.1em 3em; }
+  .home-recruit {
+    grid-template-columns: 1fr;
+    gap: 1em;
+  }
+  .home-recruit .home-recruit__link {
+    width: 100%;
+    white-space: normal;
+  }
 }
