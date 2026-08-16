@@ -4,6 +4,7 @@ title: ""
 excerpt: "About me"
 layout: home
 author_profile: false
+recruiting_banner: true
 redirect_from: 
   - /about/
   - /about.html
@@ -11,8 +12,8 @@ redirect_from:
 
 I obtained my Ph.D. in Computer Science from the [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/) in May 2026, advised by Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html), closely working with Prof. Shih-Fu Chang, Mohit Bansal, Dilek Hakkani-Tur and Manling Li. In 2027, I will join [Westlake University](https://en.westlake.edu.cn/) as an Assistant Professor. I previously earned my M.S. in Computer Science and Civil Engineering at UIUC, and my B.S. at [Zhejiang University](https://www.zju.edu.cn/english/).
 
-My research focuses on building **large multimodal models (LMMs)** and developing **multimodal agents** with human-like perception and predictive-thinking. I am a recipient of the 2025 Amazon AICE PhD Fellowship and have published 30+ papers at top-tier venues including NeurIPS, ICLR, ACL, NAACL, EMNLP, and AAAI—among them a *Spotlight* at NeurIPS 2023 and an *Oral* at the NeurIPS 2025 SEA Workshop. Seven of these papers have each accumulated over 100 citations.
-My representative work includes [VidIL](https://github.com/MikeWangWZHL/VidIL), [Paxion](https://github.com/MikeWangWZHL/Paxion), [Solo Performance Prompting](https://github.com/MikeWangWZHL/Solo-Performance-Prompting), [Mobile-Agent-E](https://x-plug.github.io/MobileAgent/), and [PAPO](https://mikewangwzhl.github.io/PAPO/). I have previously interned at Tencent AI Lab, Microsoft Research Asia, Salesforce AI, and Amazon Alexa AI. I also closely collaborated with Alibaba Tongyi Lab.
+My research focuses on building **large multimodal models (LMMs)** and developing **multimodal agents** with human-like perception and predictive-thinking. I am a recipient of the 2025 Amazon AICE PhD Fellowship and have published 30+ papers at top-tier venues including NeurIPS, ICLR, ACL, NAACL, EMNLP, and AAAI—among them a *Spotlight* at NeurIPS 2023 and an *Oral* at the NeurIPS 2025 SEA Workshop. Seven of these papers have each accumulated over 100 citations individually.
+My representative work includes [Solo Performance Prompting](https://github.com/MikeWangWZHL/Solo-Performance-Prompting), [VidIL](https://github.com/MikeWangWZHL/VidIL), [Mobile-Agent-E](https://x-plug.github.io/MobileAgent/), and [PAPO](https://mikewangwzhl.github.io/PAPO/). I have previously interned at Tencent AI Lab, Microsoft Research Asia, Salesforce AI, and Amazon Alexa AI. I also closely collaborated with Alibaba Tongyi Lab.
 
 For my most recent work, please check out my [Google Scholar](https://scholar.google.com/citations?user=arzvOlgAAAAJ&hl=en).
 

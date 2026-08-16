@@ -27,8 +27,15 @@
 <!-- Custom homepage redesign (loaded after main.css to override theme) -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+{% if page.lab_page %}
+<link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700;800&amp;family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&amp;display=swap" rel="stylesheet">
+{% else %}
 <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,400&display=swap" rel="stylesheet">
+{% endif %}
 <link rel="stylesheet" href="{{ base_path }}/assets/css/custom.css"/>
+{% if page.lab_page %}
+<link rel="stylesheet" href="{{ base_path }}/assets/css/lab.css"/>
+{% endif %}
 
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
 <script type="text/x-mathjax-config">

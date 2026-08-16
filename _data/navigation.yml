@@ -8,5 +8,7 @@ main:
     url: /#experience
   - title: "Education"
     url: /#education
+  - title: "Lab / Join Us"
+    url: /lab/
   - title: "Scholar"
     url: https://scholar.google.com/citations?user=arzvOlgAAAAJ&hl=en
